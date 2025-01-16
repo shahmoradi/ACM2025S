@@ -1,7 +1,7 @@
 [
 	
 		{
-		  "title"      : "Announcement 0: Student-professor connection day",
+		  "title"      : "Announcement 1: Student-professor connection day",
 		  "category"   : "",
 		  "url"        : "/ACM2025S/announcement/1-student-professor-connection-day",
 		  "date"       : "2025-01-16 00:00:00 -0500",
@@ -9,7 +9,7 @@
 		} ,
 	
 		{
-		  "title"      : "Announcement 1: Survey",
+		  "title"      : "Announcement 0: Survey",
 		  "category"   : "",
 		  "url"        : "/ACM2025S/announcement/0-survey",
 		  "date"       : "2025-01-14 00:00:00 -0500",
