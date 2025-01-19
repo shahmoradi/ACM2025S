@@ -2,6 +2,16 @@
 callback([
 
   {
+    "text": "Lecture 1: Preliminaries",
+    "href": "/ACM2025S/lecture/1"
+  } ,
+
+  {
+    "text": "Homework 1: Preliminaries",
+    "href": "/ACM2025S/homework/1"
+  } ,
+
+  {
     "text": "Announcement 1: Student-professor connection day",
     "href": "/ACM2025S/announcement/1-student-professor-connection-day"
   } ,
