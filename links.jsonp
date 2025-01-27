@@ -2,7 +2,12 @@
 callback([
 
   {
-    "text": "Lecture 2: Problem-Solving Strategies in Classical Mechanics",
+    "text": "Week 2: Preliminaries",
+    "href": "/ACM2025S/lecture/2"
+  } ,
+
+  {
+    "text": "Week 1: Problem-Solving Strategies in Classical Mechanics",
     "href": "/ACM2025S/lecture/1"
   } ,
 

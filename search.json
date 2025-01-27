@@ -1,6 +1,14 @@
 [
 	
 		{
+		  "title"      : "Week 2: Preliminaries",
+		  "category"   : "",
+		  "url"        : "/ACM2025S/lecture/2",
+		  "date"       : "2025-01-26 00:00:00 -0500",
+		  "shortdate"  : "January 26, 2025"
+		} ,
+	
+		{
 		  "title"      : "Homework 2: Problem-Solving Techniques in Classical Mechanics",
 		  "category"   : "",
 		  "url"        : "/ACM2025S/homework/2",
@@ -9,7 +17,7 @@
 		} ,
 	
 		{
-		  "title"      : "Lecture 2: Problem-Solving Strategies in Classical Mechanics",
+		  "title"      : "Week 1: Problem-Solving Strategies in Classical Mechanics",
 		  "category"   : "",
 		  "url"        : "/ACM2025S/lecture/1",
 		  "date"       : "2025-01-17 00:00:00 -0500",
