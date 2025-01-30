@@ -12,6 +12,11 @@ callback([
   } ,
 
   {
+    "text": "Homework 3: Newtonian Static setup",
+    "href": "/ACM2025S/homework/3"
+  } ,
+
+  {
     "text": "Homework 2: Problem-Solving Techniques in Newtonian Mechanics",
     "href": "/ACM2025S/homework/2"
   } ,
