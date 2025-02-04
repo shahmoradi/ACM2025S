@@ -7,7 +7,7 @@
 <generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="http:/ACM2025S/feed.xml" />
 <link rel="alternate" type="text/html" href="http:/ACM2025S/" />
-<updated>2025-01-30T15:29:18-05:00</updated>
+<updated>2025-02-04T16:30:06-05:00</updated>
 <id>http:/ACM2025S/</id>
 <author>
   <name>Amir Shahmoradi</name>
@@ -540,6 +540,101 @@
 
   
   &lt;p&gt;&lt;a href=&quot;http:/ACM2025S/announcement/0-survey&quot;&gt;Announcement 0: Survey&lt;/a&gt; was originally published by Amir Shahmoradi at &lt;a href=&quot;http:/ACM2025S&quot;&gt;Advanced Classical Mechanics - Spring 2025 - TTH 15:30-16:50 - Science Hall SH 129 / Microsoft Teams Virtual Room&lt;/a&gt; on January 14, 2025.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Quiz 1]]></title>
+  <link rel="alternate" type="text/html" href="http:/ACM2025S/quiz/1"/>
+  <id>http:/ACM2025S/quiz/1</id>
+  <published>2024-02-04T00:00:00-05:00</published>
+  <updated>2024-02-04T00:00:00-05:00</updated>
+  <author>
+    <name>Amir Shahmoradi</name>
+    <uri>http:/ACM2025S</uri>
+    <email>shahmoradi@utexas.edu</email>
+  </author>
+  
+  <content type="html">
+  
+    &lt;!--
+This is the solution to [Quiz 1: Problems - Version control system](1-problems-version-control-system.html){:target=&quot;_blank&quot;}.  
+
+The following figure illustrates the grade distribution for this quiz.  
+&lt;figure&gt;
+    &lt;img src=&quot;http:/ACM2025S/quiz/gradeDist/gradeHistQuiz1.png&quot; width=&quot;700&quot;&gt;
+    &lt;figcaption style=&quot;text-align:center&quot;&gt;
+        Maximum possible points is 1.
+    &lt;/figcaption&gt;
+&lt;/figure&gt;
+--&gt;
+
+&lt;p&gt;&lt;strong&gt;This quiz is open-lecture&lt;/strong&gt;, however, you are &lt;strong&gt;not&lt;/strong&gt; allowed to consult other resources or people.&lt;br /&gt;
+You have 60 minutes to respond to the questions and submit your answers.&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;Prove the following identity:&lt;br /&gt;
+&lt;br /&gt;
+\(\sin(\alpha \pm \beta) = \sin(\alpha) \cos(\beta) \pm \cos(\alpha) \sin(\beta)\)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Prove the following identities hold:&lt;br /&gt;
+a.  The double cross-product identity (also known as the bac-cab rule):&lt;br /&gt;
+    &lt;br /&gt;
+    \({\bf a} \times ({\bf b} \times {\bf c}) = {\bf b} ({\bf a} \cdot {\bf c}) - {\bf c} ({\bf a} \cdot {\bf b})\)&lt;br /&gt;
+    &lt;br /&gt;
+b.  The alternate double cross-product identity:&lt;br /&gt;
+    &lt;br /&gt;
+    \(({\bf a} \times {\bf b}) \times {\bf c} = {\bf b} ({\bf a} \cdot {\bf c}) - {\bf a} ({\bf b} \cdot {\bf c})\)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Show that the following holds,&lt;br /&gt;
+&lt;br /&gt;
+\(\large
+\nabla(\log(|{\bf r}|) = \frac{\bf r}{r^2} ~.\)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;How many scalar multiplications are generally involved in the multiplication of two square matrices of rank $n$?&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;A satellite of mass $m$ travels in a circular orbit above the earth’s surface. 
+What can we say about its speed (in terms of the known physical quantities)?&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;A beach ball is dropped from rest at height $h$.&lt;br /&gt;
+Assume that the drag force from the air takes the form $F_d = -m\alpha v$.&lt;br /&gt;
+The governing equations for the velocity of the ball is the following:&lt;br /&gt;
+&lt;br /&gt;
+\(v(t) = -\frac{g}{\alpha}\left[1 - \exp(-\alpha t)\right] ~.\)&lt;br /&gt;
+&lt;br /&gt;
+Prove that the speed of the ball according to the above equation is sensible both &lt;strong&gt;immediately&lt;/strong&gt; and &lt;strong&gt;long&lt;/strong&gt; after the ball is dropped.&lt;br /&gt;
+What is the mathematical interpretation of &lt;strong&gt;immediately&lt;/strong&gt; and &lt;strong&gt;long&lt;/strong&gt; here?&lt;br /&gt;
+&lt;strong&gt;Hint:&lt;/strong&gt; Recall the definition of the Taylor expansion:&lt;br /&gt;
+&lt;br /&gt;
+\(f(x\rightarrow a) = f(a)+{\frac {f&apos;(a)}{1!}}(x-a)+{\frac {f&apos;&apos;(a)}{2!}}(x-a)^{2}+\cdots =\sum _{n=0}^{\infty }{\frac {f^{(n)}(a)}{n!}}(x-a)^{n} ~.\)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Extra Credit.&lt;/strong&gt; A ball is thrown at an angle $\theta$ up to the top of a cliff of height $L$, 
+from a point a distance $L$ from the base, as shown in the figure. 
+Assuming that one of the following quantities is the initial speed 
+required to make the ball hit right at the edge of the cliff, which one is it?&lt;br /&gt;
+Justify your answer.&lt;br /&gt;
+&lt;br /&gt;
+&lt;img src=&quot;./landing-at-the-corner-figure.png&quot; alt=&quot;landing-at-the-corner-figure&quot; /&gt;
+&lt;br /&gt;
+&lt;img src=&quot;./landing-at-the-corner-eq.png&quot; alt=&quot;landing-at-the-corner-equations&quot; /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+
+  
+  &lt;p&gt;&lt;a href=&quot;http:/ACM2025S/quiz/1&quot;&gt;Quiz 1&lt;/a&gt; was originally published by Amir Shahmoradi at &lt;a href=&quot;http:/ACM2025S&quot;&gt;Advanced Classical Mechanics - Spring 2025 - TTH 15:30-16:50 - Science Hall SH 129 / Microsoft Teams Virtual Room&lt;/a&gt; on February 04, 2024.&lt;/p&gt;</content>
 </entry>
 
 </feed>

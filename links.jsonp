@@ -12,6 +12,11 @@ callback([
   } ,
 
   {
+    "text": "Quiz 1",
+    "href": "/ACM2025S/quiz/1"
+  } ,
+
+  {
     "text": "Homework 3: Newtonian Static setup",
     "href": "/ACM2025S/homework/3"
   } ,
