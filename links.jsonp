@@ -2,7 +2,12 @@
 callback([
 
   {
-    "text": "Week 2: Problem-Solving Strategies in Newtonian Mechanics",
+    "text": "Week 4: Newtonian Dynamics",
+    "href": "/ACM2025S/lecture/3"
+  } ,
+
+  {
+    "text": "Week 2-3: Problem-Solving Strategies in Newtonian Mechanics",
     "href": "/ACM2025S/lecture/2"
   } ,
 
