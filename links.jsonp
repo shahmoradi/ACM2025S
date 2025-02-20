@@ -7,6 +7,11 @@ callback([
   } ,
 
   {
+    "text": "Week 4: Conservation Laws",
+    "href": "/ACM2025S/lecture/4"
+  } ,
+
+  {
     "text": "Week 2-3: Problem-Solving Strategies in Newtonian Mechanics",
     "href": "/ACM2025S/lecture/2"
   } ,
