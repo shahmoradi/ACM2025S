@@ -7,7 +7,7 @@
 <generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="http:/ACM2025S/feed.xml" />
 <link rel="alternate" type="text/html" href="http:/ACM2025S/" />
-<updated>2025-02-21T00:33:18-06:00</updated>
+<updated>2025-02-21T00:38:42-06:00</updated>
 <id>http:/ACM2025S/</id>
 <author>
   <name>Amir Shahmoradi</name>
@@ -600,7 +600,7 @@ When returning your answers, mark the two sets with the lecture note number to m
   
     &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;Here is &lt;a href=&quot;./acm-quiz-2-solutions.pdf&quot; target=&quot;_blank&quot;&gt;the solution to this quiz&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Here is &lt;a href=&quot;http:/ACM2025S/quiz/acm-quiz-2-solutions.pdf&quot; target=&quot;_blank&quot;&gt;the solution to this quiz&lt;/a&gt;.&lt;/p&gt;
 
 &lt;hr /&gt;
 &lt;hr /&gt;
@@ -687,7 +687,7 @@ in which ${\mathbf v}$ represents the velocity of the particle at any given mome
   
     &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;Here is &lt;a href=&quot;./acm-quiz-1-solutions.pdf&quot; target=&quot;_blank&quot;&gt;the solution to this quiz&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Here is &lt;a href=&quot;http:/ACM2025S/quiz/acm-quiz-1-solutions.pdf&quot; target=&quot;_blank&quot;&gt;the solution to this quiz&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
