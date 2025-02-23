@@ -2,13 +2,13 @@
 callback([
 
   {
-    "text": "Week 4: Newtonian Dynamics",
-    "href": "/ACM2025S/lecture/3"
+    "text": "Week 5: Conservation Laws",
+    "href": "/ACM2025S/lecture/4"
   } ,
 
   {
-    "text": "Week 4: Conservation Laws",
-    "href": "/ACM2025S/lecture/4"
+    "text": "Week 4: Newtonian Dynamics",
+    "href": "/ACM2025S/lecture/3"
   } ,
 
   {
