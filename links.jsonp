@@ -2,26 +2,6 @@
 callback([
 
   {
-    "text": "Week 5: Conservation Laws",
-    "href": "/ACM2025S/lecture/4"
-  } ,
-
-  {
-    "text": "Week 4: Newtonian Dynamics",
-    "href": "/ACM2025S/lecture/3"
-  } ,
-
-  {
-    "text": "Week 2-3: Problem-Solving Strategies in Newtonian Mechanics",
-    "href": "/ACM2025S/lecture/2"
-  } ,
-
-  {
-    "text": "Week 1: Mathematical Foundations Review",
-    "href": "/ACM2025S/lecture/1"
-  } ,
-
-  {
     "text": "Quiz 2",
     "href": "/ACM2025S/quiz/2"
   } ,
@@ -29,6 +9,21 @@ callback([
   {
     "text": "Quiz 1",
     "href": "/ACM2025S/quiz/1"
+  } ,
+
+  {
+    "text": "Quartet 3: Conservation Laws and Gravity",
+    "href": "/ACM2025S/lecture/3"
+  } ,
+
+  {
+    "text": "Quartet 2: Newtonian Statics and Dynamics",
+    "href": "/ACM2025S/lecture/2"
+  } ,
+
+  {
+    "text": "Quartet 1: Mathematical Foundations and Problem Solving Strategies",
+    "href": "/ACM2025S/lecture/1"
   } ,
 
   {

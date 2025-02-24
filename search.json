@@ -1,9 +1,9 @@
 [
 	
 		{
-		  "title"      : "Week 5: Conservation Laws",
+		  "title"      : "Quartet 3: Conservation Laws and Gravity",
 		  "category"   : "",
-		  "url"        : "/ACM2025S/lecture/4",
+		  "url"        : "/ACM2025S/lecture/3",
 		  "date"       : "2025-02-20 00:00:00 -0600",
 		  "shortdate"  : "February 20, 2025"
 		} ,
@@ -17,14 +17,6 @@
 		} ,
 	
 		{
-		  "title"      : "Week 4: Newtonian Dynamics",
-		  "category"   : "",
-		  "url"        : "/ACM2025S/lecture/3",
-		  "date"       : "2025-02-06 00:00:00 -0600",
-		  "shortdate"  : "February 06, 2025"
-		} ,
-	
-		{
 		  "title"      : "Homework 2: Newtonian Statics and Dynamics",
 		  "category"   : "",
 		  "url"        : "/ACM2025S/homework/2",
@@ -33,7 +25,7 @@
 		} ,
 	
 		{
-		  "title"      : "Week 2-3: Problem-Solving Strategies in Newtonian Mechanics",
+		  "title"      : "Quartet 2: Newtonian Statics and Dynamics",
 		  "category"   : "",
 		  "url"        : "/ACM2025S/lecture/2",
 		  "date"       : "2025-01-26 00:00:00 -0600",
@@ -41,7 +33,7 @@
 		} ,
 	
 		{
-		  "title"      : "Week 1: Mathematical Foundations Review",
+		  "title"      : "Quartet 1: Mathematical Foundations and Problem Solving Strategies",
 		  "category"   : "",
 		  "url"        : "/ACM2025S/lecture/1",
 		  "date"       : "2025-01-17 00:00:00 -0600",
