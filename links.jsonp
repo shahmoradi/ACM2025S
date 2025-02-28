@@ -27,6 +27,11 @@ callback([
   } ,
 
   {
+    "text": "Homework 4: Conservation Laws and Momentum",
+    "href": "/ACM2025S/homework/4"
+  } ,
+
+  {
     "text": "Homework 3: Conservation Laws and Gravity",
     "href": "/ACM2025S/homework/3"
   } ,
