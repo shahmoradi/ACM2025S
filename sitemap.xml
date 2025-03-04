@@ -48,6 +48,10 @@
 
     
     <url>
+        <loc>/ACM2025S/lecture/4</loc>
+    </url>
+    
+    <url>
         <loc>/ACM2025S/homework/4</loc>
     </url>
     
@@ -81,6 +85,10 @@
     
     <url>
         <loc>/ACM2025S/announcement/0-survey</loc>
+    </url>
+    
+    <url>
+        <loc>/ACM2025S/quiz/3</loc>
     </url>
     
     <url>

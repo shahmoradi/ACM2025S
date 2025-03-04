@@ -7,13 +7,37 @@
 <generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="http:/ACM2025S/feed.xml" />
 <link rel="alternate" type="text/html" href="http:/ACM2025S/" />
-<updated>2025-02-28T15:53:45-06:00</updated>
+<updated>2025-03-04T15:31:52-06:00</updated>
 <id>http:/ACM2025S/</id>
 <author>
   <name>Amir Shahmoradi</name>
   <uri>http:/ACM2025S/</uri>
   <email>shahmoradi@utexas.edu</email>
 </author>
+
+
+<entry>
+  <title type="html"><![CDATA[Quartet 3: Conservation Laws and Momentum]]></title>
+  <link rel="alternate" type="text/html" href="http:/ACM2025S/lecture/4"/>
+  <id>http:/ACM2025S/lecture/4</id>
+  <published>2025-03-05T00:00:00-06:00</published>
+  <updated>0000-00-00T00:00:00-00:00</updated>
+  
+  <author>
+    <name>Amir Shahmoradi</name>
+    <uri>http:/ACM2025S</uri>
+    <email>shahmoradi@utexas.edu</email>
+  </author>
+  
+  <content type="html">
+  
+    &lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;acm7.pdf&quot; target=&quot;_blank&quot;&gt;acm7.pdf&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+  
+  &lt;p&gt;&lt;a href=&quot;http:/ACM2025S/lecture/4&quot;&gt;Quartet 3: Conservation Laws and Momentum&lt;/a&gt; was originally published by Amir Shahmoradi at &lt;a href=&quot;http:/ACM2025S&quot;&gt;Advanced Classical Mechanics - Spring 2025 - TTH 15:30-16:50 - Science Hall SH 129 / Microsoft Teams Virtual Room&lt;/a&gt; on March 05, 2025.&lt;/p&gt;</content>
+</entry>
 
 
 <entry>
@@ -63,7 +87,6 @@ When returning your answers, mark the sets with the corresponding lecture note n
   <content type="html">
   
     &lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;acm7.pdf&quot; target=&quot;_blank&quot;&gt;acm7.pdf&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;acm6.pdf&quot; target=&quot;_blank&quot;&gt;acm6.pdf&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
@@ -621,6 +644,68 @@ When returning your answers, mark the two sets with the lecture note number to m
 
   
   &lt;p&gt;&lt;a href=&quot;http:/ACM2025S/announcement/0-survey&quot;&gt;Announcement 0: Survey&lt;/a&gt; was originally published by Amir Shahmoradi at &lt;a href=&quot;http:/ACM2025S&quot;&gt;Advanced Classical Mechanics - Spring 2025 - TTH 15:30-16:50 - Science Hall SH 129 / Microsoft Teams Virtual Room&lt;/a&gt; on January 14, 2025.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Quiz 3]]></title>
+  <link rel="alternate" type="text/html" href="http:/ACM2025S/quiz/3"/>
+  <id>http:/ACM2025S/quiz/3</id>
+  <published>2024-03-04T00:00:00-06:00</published>
+  <updated>2024-03-04T00:00:00-06:00</updated>
+  <author>
+    <name>Amir Shahmoradi</name>
+    <uri>http:/ACM2025S</uri>
+    <email>shahmoradi@utexas.edu</email>
+  </author>
+  
+  <content type="html">
+  
+    &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;You have 60 minutes to respond to the questions and submit your answers.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;A pendulum is held with its string horizontally and is then released. The mass swings down, and then on its way back up, the string is cut when it makes an angle $\theta$ with the vertical. What should $\theta$ be so that the mass travels the largest horizontal distance by the time it returns to the height it had when the string was cut? &lt;strong&gt;Hint&lt;/strong&gt;: Recall the horizontal distance traveled by a projectile motion with initial velocity $v_0$ with a launch angle $\phi$ is $x = \frac{v_0^2 \sin(2\phi)}{g}$ where $\sin(2\phi) = 2\sin(\phi)\cos(\phi)$. (score : 20)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;A small mass rests on top of a fixed frictionless sphere. The mass is given an extremely tiny kick to help it start sliding downward. At what point (angle with respect to the horizontal line) does it lose contact with the sphere? &lt;strong&gt;Hint&lt;/strong&gt;: Think of the minimum force required to keep the object on the surface of the sphere and how it relates to the work-energy theorem. (score : 20)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;A straight frictionless tube is drilled between two points on the earth, as shown in the figure. An object is dropped into the tube with initial zero velocity $v_0 = 0$. Assume (incorrectly) that the density of the earth is constant.
+    &lt;ol&gt;
+      &lt;li&gt;At what point does the object feel the smallest amount of gravitational force? (score : 5)&lt;/li&gt;
+      &lt;li&gt;What is the value of this minimum force? (score : 10)&lt;/li&gt;
+      &lt;li&gt;What is the speed of the object at this point of minimum force? &lt;strong&gt;Hint&lt;/strong&gt;: Recall the differential form of the Newton equation $\mathbf{F}=m\mathbf{a}$ we discussed in class that connects the force to velocity and differentials of velocity and displacement. (score : 15)&lt;/li&gt;
+    &lt;/ol&gt;
+    &lt;figure&gt;
+    &lt;img src=&quot;http:/ACM2025S/quiz/3/sphere.png&quot; width=&quot;200&quot; /&gt;
+    &lt;figcaption style=&quot;text-align:center&quot;&gt;
+    &lt;/figcaption&gt;
+&lt;/figure&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Consider a thin uniform disk of mass $M$ and radius $a$. Find the force on a mass $m$ located along the axis of the disk starting with the definition of the gravitational potential energy: $dU = -G\frac{dM~m}{r}$ and the fact that $\mathbf{F} = -\nabla U$ (score : 30)
+    &lt;figure&gt;
+    &lt;img src=&quot;http:/ACM2025S/quiz/3/disk.png&quot; width=&quot;400&quot; /&gt;
+    &lt;figcaption style=&quot;text-align:center&quot;&gt;
+    &lt;/figcaption&gt;
+&lt;/figure&gt;
+  &lt;/li&gt;
+  &lt;li&gt;(&lt;strong&gt;Extra Credit&lt;/strong&gt;.) Astronomical measurements indicate that the orbital speed of masses in many spiral galaxies rotating about their centers is approximately constant as a function of distance from the center of the galaxy (like our own Milky Way and our nearest neighbor Andromeda) as shown in the following figure. Show that this experimental result is inconsistent with the galaxy having its mass concentrated near the center of the galaxy (where the spiral arms exist) and necessitates the mass of the galaxy to increase linearly or super-linearly with distance $r$ from the galactic center. This hidden mass is what’s been called the &lt;strong&gt;Dark Matter&lt;/strong&gt;, one of the greatest mysteries of the contemporary physics comprising more than $90\%$ of the mass of our universe. (score : 10)
+    &lt;figure&gt;
+    &lt;img src=&quot;http:/ACM2025S/quiz/3/darkmatter.png&quot; width=&quot;500&quot; /&gt;
+    &lt;figcaption style=&quot;text-align:center&quot;&gt;
+        The solid line represents data for the orbital speed of mass as a function of distance from the center of the Andromeda galaxy. The dashed line represents the $1/\sqrt{r}$ behavior expected from the Keplerian result of Newton&apos;s laws.
+    &lt;/figcaption&gt;
+&lt;/figure&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+
+  
+  &lt;p&gt;&lt;a href=&quot;http:/ACM2025S/quiz/3&quot;&gt;Quiz 3&lt;/a&gt; was originally published by Amir Shahmoradi at &lt;a href=&quot;http:/ACM2025S&quot;&gt;Advanced Classical Mechanics - Spring 2025 - TTH 15:30-16:50 - Science Hall SH 129 / Microsoft Teams Virtual Room&lt;/a&gt; on March 04, 2024.&lt;/p&gt;</content>
 </entry>
 
 

@@ -2,6 +2,11 @@
 callback([
 
   {
+    "text": "Quiz 3",
+    "href": "/ACM2025S/quiz/3"
+  } ,
+
+  {
     "text": "Quiz 2",
     "href": "/ACM2025S/quiz/2"
   } ,
@@ -9,6 +14,11 @@ callback([
   {
     "text": "Quiz 1",
     "href": "/ACM2025S/quiz/1"
+  } ,
+
+  {
+    "text": "Quartet 3: Conservation Laws and Momentum",
+    "href": "/ACM2025S/lecture/4"
   } ,
 
   {
