@@ -7,7 +7,7 @@
 <generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="http:/ACM2025S/feed.xml" />
 <link rel="alternate" type="text/html" href="http:/ACM2025S/" />
-<updated>2025-03-17T11:36:18-05:00</updated>
+<updated>2025-03-17T09:44:36-07:00</updated>
 <id>http:/ACM2025S/</id>
 <author>
   <name>Amir Shahmoradi</name>
@@ -20,7 +20,7 @@
   <title type="html"><![CDATA[Quartet 3: Conservation Laws and Momentum]]></title>
   <link rel="alternate" type="text/html" href="http:/ACM2025S/lecture/4"/>
   <id>http:/ACM2025S/lecture/4</id>
-  <published>2025-03-05T00:00:00-06:00</published>
+  <published>2025-03-05T00:00:00-08:00</published>
   <updated>0000-00-00T00:00:00-00:00</updated>
   
   <author>
@@ -44,8 +44,8 @@
   <title type="html"><![CDATA[Quiz 3]]></title>
   <link rel="alternate" type="text/html" href="http:/ACM2025S/quiz/3"/>
   <id>http:/ACM2025S/quiz/3</id>
-  <published>2025-03-04T00:00:00-06:00</published>
-  <updated>2025-03-04T00:00:00-06:00</updated>
+  <published>2025-03-04T00:00:00-08:00</published>
+  <updated>2025-03-04T00:00:00-08:00</updated>
   <author>
     <name>Amir Shahmoradi</name>
     <uri>http:/ACM2025S</uri>
@@ -113,8 +113,8 @@
   <title type="html"><![CDATA[Homework 4: Conservation Laws and Momentum]]></title>
   <link rel="alternate" type="text/html" href="http:/ACM2025S/homework/4"/>
   <id>http:/ACM2025S/homework/4</id>
-  <published>2025-02-28T00:00:00-06:00</published>
-  <updated>2025-02-28T00:00:00-06:00</updated>
+  <published>2025-02-28T00:00:00-08:00</published>
+  <updated>2025-02-28T00:00:00-08:00</updated>
   <author>
     <name>Amir Shahmoradi</name>
     <uri>http:/ACM2025S</uri>
@@ -144,7 +144,7 @@ When returning your answers, mark the sets with the corresponding lecture note n
   <title type="html"><![CDATA[Quartet 3: Conservation Laws and Gravity]]></title>
   <link rel="alternate" type="text/html" href="http:/ACM2025S/lecture/3"/>
   <id>http:/ACM2025S/lecture/3</id>
-  <published>2025-02-20T00:00:00-06:00</published>
+  <published>2025-02-20T00:00:00-08:00</published>
   <updated>0000-00-00T00:00:00-00:00</updated>
   
   <author>
@@ -168,8 +168,8 @@ When returning your answers, mark the sets with the corresponding lecture note n
   <title type="html"><![CDATA[Homework 3: Conservation Laws and Gravity]]></title>
   <link rel="alternate" type="text/html" href="http:/ACM2025S/homework/3"/>
   <id>http:/ACM2025S/homework/3</id>
-  <published>2025-02-20T00:00:00-06:00</published>
-  <updated>2025-02-20T00:00:00-06:00</updated>
+  <published>2025-02-20T00:00:00-08:00</published>
+  <updated>2025-02-20T00:00:00-08:00</updated>
   <author>
     <name>Amir Shahmoradi</name>
     <uri>http:/ACM2025S</uri>
@@ -199,8 +199,8 @@ When returning your answers, mark the sets with the corresponding lecture note n
   <title type="html"><![CDATA[Quiz 2]]></title>
   <link rel="alternate" type="text/html" href="http:/ACM2025S/quiz/2"/>
   <id>http:/ACM2025S/quiz/2</id>
-  <published>2025-02-18T00:00:00-06:00</published>
-  <updated>2025-02-18T00:00:00-06:00</updated>
+  <published>2025-02-18T00:00:00-08:00</published>
+  <updated>2025-02-18T00:00:00-08:00</updated>
   <author>
     <name>Amir Shahmoradi</name>
     <uri>http:/ACM2025S</uri>
@@ -286,8 +286,8 @@ in which ${\mathbf v}$ represents the velocity of the particle at any given mome
   <title type="html"><![CDATA[Quiz 1]]></title>
   <link rel="alternate" type="text/html" href="http:/ACM2025S/quiz/1"/>
   <id>http:/ACM2025S/quiz/1</id>
-  <published>2025-02-04T00:00:00-06:00</published>
-  <updated>2025-02-04T00:00:00-06:00</updated>
+  <published>2025-02-04T00:00:00-08:00</published>
+  <updated>2025-02-04T00:00:00-08:00</updated>
   <author>
     <name>Amir Shahmoradi</name>
     <uri>http:/ACM2025S</uri>
@@ -389,8 +389,8 @@ Justify your answer.&lt;/p&gt;
   <title type="html"><![CDATA[Homework 2: Newtonian Statics and Dynamics]]></title>
   <link rel="alternate" type="text/html" href="http:/ACM2025S/homework/2"/>
   <id>http:/ACM2025S/homework/2</id>
-  <published>2025-01-30T00:00:00-06:00</published>
-  <updated>2025-01-30T00:00:00-06:00</updated>
+  <published>2025-01-30T00:00:00-08:00</published>
+  <updated>2025-01-30T00:00:00-08:00</updated>
   <author>
     <name>Amir Shahmoradi</name>
     <uri>http:/ACM2025S</uri>
@@ -431,7 +431,7 @@ When returning your answers, mark the two sets with the lecture note number to m
   <title type="html"><![CDATA[Quartet 2: Newtonian Statics and Dynamics]]></title>
   <link rel="alternate" type="text/html" href="http:/ACM2025S/lecture/2"/>
   <id>http:/ACM2025S/lecture/2</id>
-  <published>2025-01-26T00:00:00-06:00</published>
+  <published>2025-01-26T00:00:00-08:00</published>
   <updated>0000-00-00T00:00:00-00:00</updated>
   
   <author>
@@ -456,7 +456,7 @@ When returning your answers, mark the two sets with the lecture note number to m
   <title type="html"><![CDATA[Quartet 1: Mathematical Foundations and Problem Solving Strategies]]></title>
   <link rel="alternate" type="text/html" href="http:/ACM2025S/lecture/1"/>
   <id>http:/ACM2025S/lecture/1</id>
-  <published>2025-01-17T00:00:00-06:00</published>
+  <published>2025-01-17T00:00:00-08:00</published>
   <updated>0000-00-00T00:00:00-00:00</updated>
   
   <author>
@@ -482,8 +482,8 @@ When returning your answers, mark the two sets with the lecture note number to m
   <title type="html"><![CDATA[Homework 1: Mathematical Foundations & Problem-Solving Techniques]]></title>
   <link rel="alternate" type="text/html" href="http:/ACM2025S/homework/1"/>
   <id>http:/ACM2025S/homework/1</id>
-  <published>2025-01-17T00:00:00-06:00</published>
-  <updated>2025-01-17T00:00:00-06:00</updated>
+  <published>2025-01-17T00:00:00-08:00</published>
+  <updated>2025-01-17T00:00:00-08:00</updated>
   <author>
     <name>Amir Shahmoradi</name>
     <uri>http:/ACM2025S</uri>
@@ -524,8 +524,8 @@ When returning your answers, mark the two sets with the lecture note number to m
   <title type="html"><![CDATA[Announcement 1: Student-professor connection day]]></title>
   <link rel="alternate" type="text/html" href="http:/ACM2025S/announcement/1-student-professor-connection-day"/>
   <id>http:/ACM2025S/announcement/1-student-professor-connection-day</id>
-  <published>2025-01-16T00:00:00-06:00</published>
-  <updated>2025-01-16T00:00:00-06:00</updated>
+  <published>2025-01-16T00:00:00-08:00</published>
+  <updated>2025-01-16T00:00:00-08:00</updated>
   <author>
     <name>Amir Shahmoradi</name>
     <uri>http:/ACM2025S</uri>
@@ -887,8 +887,8 @@ When returning your answers, mark the two sets with the lecture note number to m
   <title type="html"><![CDATA[Announcement 0: Survey]]></title>
   <link rel="alternate" type="text/html" href="http:/ACM2025S/announcement/0-survey"/>
   <id>http:/ACM2025S/announcement/0-survey</id>
-  <published>2025-01-14T00:00:00-06:00</published>
-  <updated>2025-01-14T00:00:00-06:00</updated>
+  <published>2025-01-14T00:00:00-08:00</published>
+  <updated>2025-01-14T00:00:00-08:00</updated>
   <author>
     <name>Amir Shahmoradi</name>
     <uri>http:/ACM2025S</uri>
