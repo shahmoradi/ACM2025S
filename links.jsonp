@@ -47,6 +47,11 @@ callback([
   } ,
 
   {
+    "text": "Homework 5: Calculus of Variations",
+    "href": "/ACM2025S/homework/5"
+  } ,
+
+  {
     "text": "Homework 4: Conservation Laws and Momentum",
     "href": "/ACM2025S/homework/4"
   } ,
