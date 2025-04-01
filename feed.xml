@@ -7,7 +7,7 @@
 <generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="http:/ACM2025S/feed.xml" />
 <link rel="alternate" type="text/html" href="http:/ACM2025S/" />
-<updated>2025-03-30T22:25:55-05:00</updated>
+<updated>2025-04-01T14:17:21-05:00</updated>
 <id>http:/ACM2025S/</id>
 <author>
   <name>Amir Shahmoradi</name>
@@ -84,7 +84,7 @@ What is the effective drag force experienced by the sphere? (score : 20)&lt;/li&
 
 
 <entry>
-  <title type="html"><![CDATA[Homework 5: Calculus of Variations]]></title>
+  <title type="html"><![CDATA[Homework 5: Calculus of Variations and Lagrangian Mechanics]]></title>
   <link rel="alternate" type="text/html" href="http:/ACM2025S/homework/5"/>
   <id>http:/ACM2025S/homework/5</id>
   <published>2025-03-25T00:00:00-05:00</published>
@@ -105,17 +105,18 @@ What is the effective drag force experienced by the sphere? (score : 20)&lt;/li&
 When returning your answers, mark the sets with the corresponding lecture note numbers to make the sets distinguishable:
     &lt;ul&gt;
       &lt;li&gt;&lt;a href=&quot;../lecture/acm8.pdf&quot; target=&quot;_blank&quot;&gt;acm8.pdf&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;../lecture/acm9.pdf&quot; target=&quot;_blank&quot;&gt;acm9.pdf&lt;/a&gt;&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
 &lt;/ol&gt;
 
   
-  &lt;p&gt;&lt;a href=&quot;http:/ACM2025S/homework/5&quot;&gt;Homework 5: Calculus of Variations&lt;/a&gt; was originally published by Amir Shahmoradi at &lt;a href=&quot;http:/ACM2025S&quot;&gt;Advanced Classical Mechanics - Spring 2025 - TTH 15:30-16:50 - Science Hall SH 129 / Microsoft Teams Virtual Room&lt;/a&gt; on March 25, 2025.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http:/ACM2025S/homework/5&quot;&gt;Homework 5: Calculus of Variations and Lagrangian Mechanics&lt;/a&gt; was originally published by Amir Shahmoradi at &lt;a href=&quot;http:/ACM2025S&quot;&gt;Advanced Classical Mechanics - Spring 2025 - TTH 15:30-16:50 - Science Hall SH 129 / Microsoft Teams Virtual Room&lt;/a&gt; on March 25, 2025.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
-  <title type="html"><![CDATA[Quartet 5: The Lagrangian Mechanics]]></title>
+  <title type="html"><![CDATA[Quartet 5: Calculus of Variations and Lagrangian Mechanics]]></title>
   <link rel="alternate" type="text/html" href="http:/ACM2025S/lecture/5"/>
   <id>http:/ACM2025S/lecture/5</id>
   <published>2025-03-18T00:00:00-05:00</published>
@@ -131,10 +132,11 @@ When returning your answers, mark the sets with the corresponding lecture note n
   
     &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;acm8.pdf&quot; target=&quot;_blank&quot;&gt;acm8.pdf&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;acm9.pdf&quot; target=&quot;_blank&quot;&gt;acm9.pdf&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
   
-  &lt;p&gt;&lt;a href=&quot;http:/ACM2025S/lecture/5&quot;&gt;Quartet 5: The Lagrangian Mechanics&lt;/a&gt; was originally published by Amir Shahmoradi at &lt;a href=&quot;http:/ACM2025S&quot;&gt;Advanced Classical Mechanics - Spring 2025 - TTH 15:30-16:50 - Science Hall SH 129 / Microsoft Teams Virtual Room&lt;/a&gt; on March 18, 2025.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http:/ACM2025S/lecture/5&quot;&gt;Quartet 5: Calculus of Variations and Lagrangian Mechanics&lt;/a&gt; was originally published by Amir Shahmoradi at &lt;a href=&quot;http:/ACM2025S&quot;&gt;Advanced Classical Mechanics - Spring 2025 - TTH 15:30-16:50 - Science Hall SH 129 / Microsoft Teams Virtual Room&lt;/a&gt; on March 18, 2025.&lt;/p&gt;</content>
 </entry>
 
 

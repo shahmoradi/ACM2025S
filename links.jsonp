@@ -22,7 +22,7 @@ callback([
   } ,
 
   {
-    "text": "Quartet 5: The Lagrangian Mechanics",
+    "text": "Quartet 5: Calculus of Variations and Lagrangian Mechanics",
     "href": "/ACM2025S/lecture/5"
   } ,
 
@@ -47,7 +47,7 @@ callback([
   } ,
 
   {
-    "text": "Homework 5: Calculus of Variations",
+    "text": "Homework 5: Calculus of Variations and Lagrangian Mechanics",
     "href": "/ACM2025S/homework/5"
   } ,
 
