@@ -7,7 +7,7 @@
 <generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="http:/ACM2025S/feed.xml" />
 <link rel="alternate" type="text/html" href="http:/ACM2025S/" />
-<updated>2025-04-08T15:57:42-05:00</updated>
+<updated>2025-04-08T16:13:29-05:00</updated>
 <id>http:/ACM2025S/</id>
 <author>
   <name>Amir Shahmoradi</name>
@@ -55,7 +55,7 @@ Is this a necessary or sufficient condition (or both)? (score : 30)&lt;br /&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;Write down the Lagrangian for a frictionless ball thrown in the air in an arbitrary direction on earth. 
-Show that the lack of dependence of the Lagrangian on the 𝑥𝑥 and 𝑦𝑦 coordinates implies that the momenta along the 𝑥𝑥 and 𝑦𝑦 directions are conserved.  (score : 20)&lt;/p&gt;
+Show that the lack of dependence of the Lagrangian on the X and Y coordinates implies that the momenta along the X and Y directions are conserved.  (score : 20)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;A block of mass $m$ is held motionless on a frictionless plane of mass $M$ and angle of inclination $\theta$. 
