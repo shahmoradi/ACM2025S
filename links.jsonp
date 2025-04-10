@@ -27,6 +27,11 @@ callback([
   } ,
 
   {
+    "text": "Quartet 6: Oscillation",
+    "href": "/ACM2025S/lecture/6"
+  } ,
+
+  {
     "text": "Quartet 5: Calculus of Variations and Lagrangian Mechanics",
     "href": "/ACM2025S/lecture/5"
   } ,
