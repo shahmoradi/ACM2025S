@@ -27,6 +27,11 @@ callback([
   } ,
 
   {
+    "text": "Quartet 7: Coupled Oscillations",
+    "href": "/ACM2025S/lecture/7"
+  } ,
+
+  {
     "text": "Quartet 6: Oscillation",
     "href": "/ACM2025S/lecture/6"
   } ,
@@ -54,6 +59,11 @@ callback([
   {
     "text": "Quartet 1: Mathematical Foundations and Problem Solving Strategies",
     "href": "/ACM2025S/lecture/1"
+  } ,
+
+  {
+    "text": "Homework 7: Coupled Oscillations",
+    "href": "/ACM2025S/homework/7"
   } ,
 
   {
