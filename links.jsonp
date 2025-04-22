@@ -2,6 +2,11 @@
 callback([
 
   {
+    "text": "Quiz 6",
+    "href": "/ACM2025S/quiz/6"
+  } ,
+
+  {
     "text": "Quiz 5",
     "href": "/ACM2025S/quiz/5"
   } ,
