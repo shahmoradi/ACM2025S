@@ -3,112 +3,112 @@ callback([
 
   {
     "text": "Quiz 6",
-    "href": "/ACM2025S/quiz/6"
+    "href": "/quiz/6"
   } ,
 
   {
     "text": "Quiz 5",
-    "href": "/ACM2025S/quiz/5"
+    "href": "/quiz/5"
   } ,
 
   {
     "text": "Quiz 4",
-    "href": "/ACM2025S/quiz/4"
+    "href": "/quiz/4"
   } ,
 
   {
     "text": "Quiz 3",
-    "href": "/ACM2025S/quiz/3"
+    "href": "/quiz/3"
   } ,
 
   {
     "text": "Quiz 2",
-    "href": "/ACM2025S/quiz/2"
+    "href": "/quiz/2"
   } ,
 
   {
     "text": "Quiz 1",
-    "href": "/ACM2025S/quiz/1"
+    "href": "/quiz/1"
   } ,
 
   {
     "text": "Quartet 7: Coupled Oscillations",
-    "href": "/ACM2025S/lecture/7"
+    "href": "/lecture/7"
   } ,
 
   {
     "text": "Quartet 6: Oscillation",
-    "href": "/ACM2025S/lecture/6"
+    "href": "/lecture/6"
   } ,
 
   {
     "text": "Quartet 5: Calculus of Variations and Lagrangian Mechanics",
-    "href": "/ACM2025S/lecture/5"
+    "href": "/lecture/5"
   } ,
 
   {
     "text": "Quartet 4: Conservation Laws and Momentum",
-    "href": "/ACM2025S/lecture/4"
+    "href": "/lecture/4"
   } ,
 
   {
     "text": "Quartet 3: Conservation Laws and Gravity",
-    "href": "/ACM2025S/lecture/3"
+    "href": "/lecture/3"
   } ,
 
   {
     "text": "Quartet 2: Newtonian Statics and Dynamics",
-    "href": "/ACM2025S/lecture/2"
+    "href": "/lecture/2"
   } ,
 
   {
     "text": "Quartet 1: Mathematical Foundations and Problem Solving Strategies",
-    "href": "/ACM2025S/lecture/1"
+    "href": "/lecture/1"
   } ,
 
   {
     "text": "Homework 7: Coupled Oscillations (optional)",
-    "href": "/ACM2025S/homework/7"
+    "href": "/homework/7"
   } ,
 
   {
     "text": "Homework 6: Oscillations",
-    "href": "/ACM2025S/homework/6"
+    "href": "/homework/6"
   } ,
 
   {
     "text": "Homework 5: Calculus of Variations and Lagrangian Mechanics",
-    "href": "/ACM2025S/homework/5"
+    "href": "/homework/5"
   } ,
 
   {
     "text": "Homework 4: Conservation Laws and Momentum",
-    "href": "/ACM2025S/homework/4"
+    "href": "/homework/4"
   } ,
 
   {
     "text": "Homework 3: Conservation Laws and Gravity",
-    "href": "/ACM2025S/homework/3"
+    "href": "/homework/3"
   } ,
 
   {
     "text": "Homework 2: Newtonian Statics and Dynamics",
-    "href": "/ACM2025S/homework/2"
+    "href": "/homework/2"
   } ,
 
   {
     "text": "Homework 1: Mathematical Foundations & Problem-Solving Techniques",
-    "href": "/ACM2025S/homework/1"
+    "href": "/homework/1"
   } ,
 
   {
     "text": "Announcement 1: Student-professor connection day",
-    "href": "/ACM2025S/announcement/1-student-professor-connection-day"
+    "href": "/announcement/1-student-professor-connection-day"
   } ,
 
   {
     "text": "Announcement 0: Survey",
-    "href": "/ACM2025S/announcement/0-survey"
+    "href": "/announcement/0-survey"
   } 
 
 ])

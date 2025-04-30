@@ -5,26 +5,26 @@
 
 <title type="text">Advanced Classical Mechanics - Spring 2025 - TTH 15:30-16:50 - Science Hall SH 129 / Microsoft Teams Virtual Room</title>
 <generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
-<link rel="self" type="application/atom+xml" href="http:/ACM2025S/feed.xml" />
-<link rel="alternate" type="text/html" href="http:/ACM2025S/" />
-<updated>2025-04-27T18:15:04-05:00</updated>
-<id>http:/ACM2025S/</id>
+<link rel="self" type="application/atom+xml" href="/feed.xml" />
+<link rel="alternate" type="text/html" href="/" />
+<updated>2025-04-27T18:15:10-05:00</updated>
+<id>/</id>
 <author>
   <name>Amir Shahmoradi</name>
-  <uri>http:/ACM2025S/</uri>
+  <uri>/</uri>
   <email>shahmoradi@utexas.edu</email>
 </author>
 
 
 <entry>
   <title type="html"><![CDATA[Homework 7: Coupled Oscillations (optional)]]></title>
-  <link rel="alternate" type="text/html" href="http:/ACM2025S/homework/7"/>
-  <id>http:/ACM2025S/homework/7</id>
+  <link rel="alternate" type="text/html" href="/homework/7"/>
+  <id>/homework/7</id>
   <published>2025-04-29T00:00:00-05:00</published>
   <updated>2025-04-29T00:00:00-05:00</updated>
   <author>
     <name>Amir Shahmoradi</name>
-    <uri>http:/ACM2025S</uri>
+    <uri></uri>
     <email>shahmoradi@utexas.edu</email>
   </author>
   
@@ -43,19 +43,19 @@ When returning your answers, mark the sets with the corresponding lecture note n
 &lt;/ol&gt;
 
   
-  &lt;p&gt;&lt;a href=&quot;http:/ACM2025S/homework/7&quot;&gt;Homework 7: Coupled Oscillations (optional)&lt;/a&gt; was originally published by Amir Shahmoradi at &lt;a href=&quot;http:/ACM2025S&quot;&gt;Advanced Classical Mechanics - Spring 2025 - TTH 15:30-16:50 - Science Hall SH 129 / Microsoft Teams Virtual Room&lt;/a&gt; on April 29, 2025.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;/homework/7&quot;&gt;Homework 7: Coupled Oscillations (optional)&lt;/a&gt; was originally published by Amir Shahmoradi at &lt;a href=&quot;&quot;&gt;Advanced Classical Mechanics - Spring 2025 - TTH 15:30-16:50 - Science Hall SH 129 / Microsoft Teams Virtual Room&lt;/a&gt; on April 29, 2025.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Quiz 6]]></title>
-  <link rel="alternate" type="text/html" href="http:/ACM2025S/quiz/6"/>
-  <id>http:/ACM2025S/quiz/6</id>
+  <link rel="alternate" type="text/html" href="/quiz/6"/>
+  <id>/quiz/6</id>
   <published>2025-04-22T00:00:00-05:00</published>
   <updated>2025-04-22T00:00:00-05:00</updated>
   <author>
     <name>Amir Shahmoradi</name>
-    <uri>http:/ACM2025S</uri>
+    <uri></uri>
     <email>shahmoradi@utexas.edu</email>
   </author>
   
@@ -63,7 +63,7 @@ When returning your answers, mark the sets with the corresponding lecture note n
   
     &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;Here is &lt;a href=&quot;http:/ACM2025S/quiz/acm-quiz-6-solutions.pdf&quot; target=&quot;_blank&quot;&gt;the solution to this quiz&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Here is &lt;a href=&quot;/quiz/acm-quiz-6-solutions.pdf&quot; target=&quot;_blank&quot;&gt;the solution to this quiz&lt;/a&gt;.&lt;/p&gt;
 
 &lt;hr /&gt;
 &lt;hr /&gt;
@@ -123,31 +123,31 @@ The spring is arranged to lie in a straight line (which we can arrange by, say, 
 The equilibrium length of the spring is $l$. Let the spring have length $l+x(t)$, and let its angle with the vertical be $\theta(t)$. 
 Assuming that the motion takes place in a vertical plane, find the equations of motion for $x$ and $\theta$.
     &lt;figure&gt;
-    &lt;img src=&quot;http:/ACM2025S/quiz/6/springlagrangian.png&quot; width=&quot;200&quot; /&gt;
+    &lt;img src=&quot;/quiz/6/springlagrangian.png&quot; width=&quot;200&quot; /&gt;
 &lt;/figure&gt;
   &lt;/li&gt;
 &lt;/ol&gt;
 
   
-  &lt;p&gt;&lt;a href=&quot;http:/ACM2025S/quiz/6&quot;&gt;Quiz 6&lt;/a&gt; was originally published by Amir Shahmoradi at &lt;a href=&quot;http:/ACM2025S&quot;&gt;Advanced Classical Mechanics - Spring 2025 - TTH 15:30-16:50 - Science Hall SH 129 / Microsoft Teams Virtual Room&lt;/a&gt; on April 22, 2025.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;/quiz/6&quot;&gt;Quiz 6&lt;/a&gt; was originally published by Amir Shahmoradi at &lt;a href=&quot;&quot;&gt;Advanced Classical Mechanics - Spring 2025 - TTH 15:30-16:50 - Science Hall SH 129 / Microsoft Teams Virtual Room&lt;/a&gt; on April 22, 2025.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Homework 6: Oscillations]]></title>
-  <link rel="alternate" type="text/html" href="http:/ACM2025S/homework/6"/>
-  <id>http:/ACM2025S/homework/6</id>
+  <link rel="alternate" type="text/html" href="/homework/6"/>
+  <id>/homework/6</id>
   <published>2025-04-22T00:00:00-05:00</published>
   <updated>2025-04-22T00:00:00-05:00</updated>
   <author>
     <name>Amir Shahmoradi</name>
-    <uri>http:/ACM2025S</uri>
+    <uri></uri>
     <email>shahmoradi@utexas.edu</email>
   </author>
   
   <content type="html">
   
-    &lt;p&gt;Here is &lt;a href=&quot;http:/ACM2025S/homework/acm-lecture-10-solutions.pdf&quot; target=&quot;_blank&quot;&gt;the solution to acm10&lt;/a&gt;.&lt;/p&gt;
+    &lt;p&gt;Here is &lt;a href=&quot;/homework/acm-lecture-10-solutions.pdf&quot; target=&quot;_blank&quot;&gt;the solution to acm10&lt;/a&gt;.&lt;/p&gt;
 
 &lt;hr /&gt;
 &lt;hr /&gt;
@@ -166,20 +166,20 @@ When returning your answers, mark the sets with the corresponding lecture note n
 &lt;/ol&gt;
 
   
-  &lt;p&gt;&lt;a href=&quot;http:/ACM2025S/homework/6&quot;&gt;Homework 6: Oscillations&lt;/a&gt; was originally published by Amir Shahmoradi at &lt;a href=&quot;http:/ACM2025S&quot;&gt;Advanced Classical Mechanics - Spring 2025 - TTH 15:30-16:50 - Science Hall SH 129 / Microsoft Teams Virtual Room&lt;/a&gt; on April 22, 2025.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;/homework/6&quot;&gt;Homework 6: Oscillations&lt;/a&gt; was originally published by Amir Shahmoradi at &lt;a href=&quot;&quot;&gt;Advanced Classical Mechanics - Spring 2025 - TTH 15:30-16:50 - Science Hall SH 129 / Microsoft Teams Virtual Room&lt;/a&gt; on April 22, 2025.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Quartet 7: Coupled Oscillations]]></title>
-  <link rel="alternate" type="text/html" href="http:/ACM2025S/lecture/7"/>
-  <id>http:/ACM2025S/lecture/7</id>
+  <link rel="alternate" type="text/html" href="/lecture/7"/>
+  <id>/lecture/7</id>
   <published>2025-04-17T00:00:00-05:00</published>
   <updated>0000-00-00T00:00:00-00:00</updated>
   
   <author>
     <name>Amir Shahmoradi</name>
-    <uri>http:/ACM2025S</uri>
+    <uri></uri>
     <email>shahmoradi@utexas.edu</email>
   </author>
   
@@ -190,19 +190,19 @@ When returning your answers, mark the sets with the corresponding lecture note n
 &lt;/ul&gt;
 
   
-  &lt;p&gt;&lt;a href=&quot;http:/ACM2025S/lecture/7&quot;&gt;Quartet 7: Coupled Oscillations&lt;/a&gt; was originally published by Amir Shahmoradi at &lt;a href=&quot;http:/ACM2025S&quot;&gt;Advanced Classical Mechanics - Spring 2025 - TTH 15:30-16:50 - Science Hall SH 129 / Microsoft Teams Virtual Room&lt;/a&gt; on April 17, 2025.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;/lecture/7&quot;&gt;Quartet 7: Coupled Oscillations&lt;/a&gt; was originally published by Amir Shahmoradi at &lt;a href=&quot;&quot;&gt;Advanced Classical Mechanics - Spring 2025 - TTH 15:30-16:50 - Science Hall SH 129 / Microsoft Teams Virtual Room&lt;/a&gt; on April 17, 2025.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Quiz 5]]></title>
-  <link rel="alternate" type="text/html" href="http:/ACM2025S/quiz/5"/>
-  <id>http:/ACM2025S/quiz/5</id>
+  <link rel="alternate" type="text/html" href="/quiz/5"/>
+  <id>/quiz/5</id>
   <published>2025-04-08T00:00:00-05:00</published>
   <updated>2025-04-08T00:00:00-05:00</updated>
   <author>
     <name>Amir Shahmoradi</name>
-    <uri>http:/ACM2025S</uri>
+    <uri></uri>
     <email>shahmoradi@utexas.edu</email>
   </author>
   
@@ -210,7 +210,7 @@ When returning your answers, mark the sets with the corresponding lecture note n
   
     &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;Here is &lt;a href=&quot;http:/ACM2025S/quiz/acm-quiz-5-solutions.pdf&quot; target=&quot;_blank&quot;&gt;the solution to this quiz&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Here is &lt;a href=&quot;/quiz/acm-quiz-5-solutions.pdf&quot; target=&quot;_blank&quot;&gt;the solution to this quiz&lt;/a&gt;.&lt;/p&gt;
 
 &lt;hr /&gt;
 &lt;hr /&gt;
@@ -253,26 +253,26 @@ Show that the resulting Lagrangian equations for the motions of the two masses n
 You must therefore consider all relevant components of the Kinetic and Potential energies in the Lagrangian.
 Once you obtain the Lagrangian equations, see what combination of the two equations yields the desired result.)&lt;/p&gt;
     &lt;figure&gt;
-    &lt;img src=&quot;http:/ACM2025S/quiz/5/block.png&quot; width=&quot;300&quot; /&gt;
+    &lt;img src=&quot;/quiz/5/block.png&quot; width=&quot;300&quot; /&gt;
 &lt;/figure&gt;
   &lt;/li&gt;
 &lt;/ol&gt;
 
   
-  &lt;p&gt;&lt;a href=&quot;http:/ACM2025S/quiz/5&quot;&gt;Quiz 5&lt;/a&gt; was originally published by Amir Shahmoradi at &lt;a href=&quot;http:/ACM2025S&quot;&gt;Advanced Classical Mechanics - Spring 2025 - TTH 15:30-16:50 - Science Hall SH 129 / Microsoft Teams Virtual Room&lt;/a&gt; on April 08, 2025.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;/quiz/5&quot;&gt;Quiz 5&lt;/a&gt; was originally published by Amir Shahmoradi at &lt;a href=&quot;&quot;&gt;Advanced Classical Mechanics - Spring 2025 - TTH 15:30-16:50 - Science Hall SH 129 / Microsoft Teams Virtual Room&lt;/a&gt; on April 08, 2025.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Quartet 6: Oscillation]]></title>
-  <link rel="alternate" type="text/html" href="http:/ACM2025S/lecture/6"/>
-  <id>http:/ACM2025S/lecture/6</id>
+  <link rel="alternate" type="text/html" href="/lecture/6"/>
+  <id>/lecture/6</id>
   <published>2025-04-08T00:00:00-05:00</published>
   <updated>0000-00-00T00:00:00-00:00</updated>
   
   <author>
     <name>Amir Shahmoradi</name>
-    <uri>http:/ACM2025S</uri>
+    <uri></uri>
     <email>shahmoradi@utexas.edu</email>
   </author>
   
@@ -283,19 +283,19 @@ Once you obtain the Lagrangian equations, see what combination of the two equati
 &lt;/ul&gt;
 
   
-  &lt;p&gt;&lt;a href=&quot;http:/ACM2025S/lecture/6&quot;&gt;Quartet 6: Oscillation&lt;/a&gt; was originally published by Amir Shahmoradi at &lt;a href=&quot;http:/ACM2025S&quot;&gt;Advanced Classical Mechanics - Spring 2025 - TTH 15:30-16:50 - Science Hall SH 129 / Microsoft Teams Virtual Room&lt;/a&gt; on April 08, 2025.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;/lecture/6&quot;&gt;Quartet 6: Oscillation&lt;/a&gt; was originally published by Amir Shahmoradi at &lt;a href=&quot;&quot;&gt;Advanced Classical Mechanics - Spring 2025 - TTH 15:30-16:50 - Science Hall SH 129 / Microsoft Teams Virtual Room&lt;/a&gt; on April 08, 2025.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Quiz 4]]></title>
-  <link rel="alternate" type="text/html" href="http:/ACM2025S/quiz/4"/>
-  <id>http:/ACM2025S/quiz/4</id>
+  <link rel="alternate" type="text/html" href="/quiz/4"/>
+  <id>/quiz/4</id>
   <published>2025-03-25T00:00:00-05:00</published>
   <updated>2025-03-25T00:00:00-05:00</updated>
   <author>
     <name>Amir Shahmoradi</name>
-    <uri>http:/ACM2025S</uri>
+    <uri></uri>
     <email>shahmoradi@utexas.edu</email>
   </author>
   
@@ -303,7 +303,7 @@ Once you obtain the Lagrangian equations, see what combination of the two equati
   
     &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;Here is &lt;a href=&quot;http:/ACM2025S/quiz/acm-quiz-4-solutions.pdf&quot; target=&quot;_blank&quot;&gt;the solution to this quiz&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Here is &lt;a href=&quot;/quiz/acm-quiz-4-solutions.pdf&quot; target=&quot;_blank&quot;&gt;the solution to this quiz&lt;/a&gt;.&lt;/p&gt;
 
 &lt;hr /&gt;
 &lt;hr /&gt;
@@ -312,7 +312,7 @@ Once you obtain the Lagrangian equations, see what combination of the two equati
 
 &lt;p&gt;The following figure illustrates the grade distribution for this activity.&lt;/p&gt;
 &lt;figure&gt;
-    &lt;img src=&quot;http:/ACM2025S/quiz/qz4.png&quot; width=&quot;700&quot; /&gt;
+    &lt;img src=&quot;/quiz/qz4.png&quot; width=&quot;700&quot; /&gt;
     &lt;figcaption style=&quot;text-align:center&quot;&gt;
         Maximum possible points is 100 (excluding extra credit).
     &lt;/figcaption&gt;
@@ -350,26 +350,26 @@ What is the effective drag force experienced by the sphere? (score : 20)&lt;/li&
 
 
   
-  &lt;p&gt;&lt;a href=&quot;http:/ACM2025S/quiz/4&quot;&gt;Quiz 4&lt;/a&gt; was originally published by Amir Shahmoradi at &lt;a href=&quot;http:/ACM2025S&quot;&gt;Advanced Classical Mechanics - Spring 2025 - TTH 15:30-16:50 - Science Hall SH 129 / Microsoft Teams Virtual Room&lt;/a&gt; on March 25, 2025.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;/quiz/4&quot;&gt;Quiz 4&lt;/a&gt; was originally published by Amir Shahmoradi at &lt;a href=&quot;&quot;&gt;Advanced Classical Mechanics - Spring 2025 - TTH 15:30-16:50 - Science Hall SH 129 / Microsoft Teams Virtual Room&lt;/a&gt; on March 25, 2025.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Homework 5: Calculus of Variations and Lagrangian Mechanics]]></title>
-  <link rel="alternate" type="text/html" href="http:/ACM2025S/homework/5"/>
-  <id>http:/ACM2025S/homework/5</id>
+  <link rel="alternate" type="text/html" href="/homework/5"/>
+  <id>/homework/5</id>
   <published>2025-03-25T00:00:00-05:00</published>
   <updated>2025-03-25T00:00:00-05:00</updated>
   <author>
     <name>Amir Shahmoradi</name>
-    <uri>http:/ACM2025S</uri>
+    <uri></uri>
     <email>shahmoradi@utexas.edu</email>
   </author>
   
   <content type="html">
   
-    &lt;p&gt;Here is &lt;a href=&quot;http:/ACM2025S/homework/acm-lecture-8-solutions.pdf&quot; target=&quot;_blank&quot;&gt;the solution to acm8&lt;/a&gt;.&lt;br /&gt;
-Here is &lt;a href=&quot;http:/ACM2025S/homework/acm-lecture-9-solutions.pdf&quot; target=&quot;_blank&quot;&gt;the solution to acm9&lt;/a&gt;.&lt;/p&gt;
+    &lt;p&gt;Here is &lt;a href=&quot;/homework/acm-lecture-8-solutions.pdf&quot; target=&quot;_blank&quot;&gt;the solution to acm8&lt;/a&gt;.&lt;br /&gt;
+Here is &lt;a href=&quot;/homework/acm-lecture-9-solutions.pdf&quot; target=&quot;_blank&quot;&gt;the solution to acm9&lt;/a&gt;.&lt;/p&gt;
 
 &lt;hr /&gt;
 &lt;hr /&gt;
@@ -389,20 +389,20 @@ When returning your answers, mark the sets with the corresponding lecture note n
 &lt;/ol&gt;
 
   
-  &lt;p&gt;&lt;a href=&quot;http:/ACM2025S/homework/5&quot;&gt;Homework 5: Calculus of Variations and Lagrangian Mechanics&lt;/a&gt; was originally published by Amir Shahmoradi at &lt;a href=&quot;http:/ACM2025S&quot;&gt;Advanced Classical Mechanics - Spring 2025 - TTH 15:30-16:50 - Science Hall SH 129 / Microsoft Teams Virtual Room&lt;/a&gt; on March 25, 2025.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;/homework/5&quot;&gt;Homework 5: Calculus of Variations and Lagrangian Mechanics&lt;/a&gt; was originally published by Amir Shahmoradi at &lt;a href=&quot;&quot;&gt;Advanced Classical Mechanics - Spring 2025 - TTH 15:30-16:50 - Science Hall SH 129 / Microsoft Teams Virtual Room&lt;/a&gt; on March 25, 2025.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Quartet 5: Calculus of Variations and Lagrangian Mechanics]]></title>
-  <link rel="alternate" type="text/html" href="http:/ACM2025S/lecture/5"/>
-  <id>http:/ACM2025S/lecture/5</id>
+  <link rel="alternate" type="text/html" href="/lecture/5"/>
+  <id>/lecture/5</id>
   <published>2025-03-18T00:00:00-05:00</published>
   <updated>0000-00-00T00:00:00-00:00</updated>
   
   <author>
     <name>Amir Shahmoradi</name>
-    <uri>http:/ACM2025S</uri>
+    <uri></uri>
     <email>shahmoradi@utexas.edu</email>
   </author>
   
@@ -414,20 +414,20 @@ When returning your answers, mark the sets with the corresponding lecture note n
 &lt;/ul&gt;
 
   
-  &lt;p&gt;&lt;a href=&quot;http:/ACM2025S/lecture/5&quot;&gt;Quartet 5: Calculus of Variations and Lagrangian Mechanics&lt;/a&gt; was originally published by Amir Shahmoradi at &lt;a href=&quot;http:/ACM2025S&quot;&gt;Advanced Classical Mechanics - Spring 2025 - TTH 15:30-16:50 - Science Hall SH 129 / Microsoft Teams Virtual Room&lt;/a&gt; on March 18, 2025.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;/lecture/5&quot;&gt;Quartet 5: Calculus of Variations and Lagrangian Mechanics&lt;/a&gt; was originally published by Amir Shahmoradi at &lt;a href=&quot;&quot;&gt;Advanced Classical Mechanics - Spring 2025 - TTH 15:30-16:50 - Science Hall SH 129 / Microsoft Teams Virtual Room&lt;/a&gt; on March 18, 2025.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Quartet 4: Conservation Laws and Momentum]]></title>
-  <link rel="alternate" type="text/html" href="http:/ACM2025S/lecture/4"/>
-  <id>http:/ACM2025S/lecture/4</id>
+  <link rel="alternate" type="text/html" href="/lecture/4"/>
+  <id>/lecture/4</id>
   <published>2025-03-05T00:00:00-06:00</published>
   <updated>0000-00-00T00:00:00-00:00</updated>
   
   <author>
     <name>Amir Shahmoradi</name>
-    <uri>http:/ACM2025S</uri>
+    <uri></uri>
     <email>shahmoradi@utexas.edu</email>
   </author>
   
@@ -438,19 +438,19 @@ When returning your answers, mark the sets with the corresponding lecture note n
 &lt;/ul&gt;
 
   
-  &lt;p&gt;&lt;a href=&quot;http:/ACM2025S/lecture/4&quot;&gt;Quartet 4: Conservation Laws and Momentum&lt;/a&gt; was originally published by Amir Shahmoradi at &lt;a href=&quot;http:/ACM2025S&quot;&gt;Advanced Classical Mechanics - Spring 2025 - TTH 15:30-16:50 - Science Hall SH 129 / Microsoft Teams Virtual Room&lt;/a&gt; on March 05, 2025.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;/lecture/4&quot;&gt;Quartet 4: Conservation Laws and Momentum&lt;/a&gt; was originally published by Amir Shahmoradi at &lt;a href=&quot;&quot;&gt;Advanced Classical Mechanics - Spring 2025 - TTH 15:30-16:50 - Science Hall SH 129 / Microsoft Teams Virtual Room&lt;/a&gt; on March 05, 2025.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Quiz 3]]></title>
-  <link rel="alternate" type="text/html" href="http:/ACM2025S/quiz/3"/>
-  <id>http:/ACM2025S/quiz/3</id>
+  <link rel="alternate" type="text/html" href="/quiz/3"/>
+  <id>/quiz/3</id>
   <published>2025-03-04T00:00:00-06:00</published>
   <updated>2025-03-04T00:00:00-06:00</updated>
   <author>
     <name>Amir Shahmoradi</name>
-    <uri>http:/ACM2025S</uri>
+    <uri></uri>
     <email>shahmoradi@utexas.edu</email>
   </author>
   
@@ -458,7 +458,7 @@ When returning your answers, mark the sets with the corresponding lecture note n
   
     &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;Here is &lt;a href=&quot;http:/ACM2025S/quiz/acm-quiz-3-solutions.pdf&quot; target=&quot;_blank&quot;&gt;the solution to this quiz&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Here is &lt;a href=&quot;/quiz/acm-quiz-3-solutions.pdf&quot; target=&quot;_blank&quot;&gt;the solution to this quiz&lt;/a&gt;.&lt;/p&gt;
 
 &lt;hr /&gt;
 &lt;hr /&gt;
@@ -467,7 +467,7 @@ When returning your answers, mark the sets with the corresponding lecture note n
 
 &lt;p&gt;The following figure illustrates the grade distribution for this activity.&lt;/p&gt;
 &lt;figure&gt;
-    &lt;img src=&quot;http:/ACM2025S/quiz/qz3.png&quot; width=&quot;700&quot; /&gt;
+    &lt;img src=&quot;/quiz/qz3.png&quot; width=&quot;700&quot; /&gt;
     &lt;figcaption style=&quot;text-align:center&quot;&gt;
         Maximum possible points is 100 (excluding extra credit).
     &lt;/figcaption&gt;
@@ -494,21 +494,21 @@ When returning your answers, mark the sets with the corresponding lecture note n
       &lt;li&gt;What is the speed of the object at this point of minimum force? &lt;strong&gt;Hint&lt;/strong&gt;: Recall the differential form of the Newton equation $\mathbf{F}=m\mathbf{a}$ we discussed in class that connects the force to velocity and differentials of velocity and displacement. (score : 15)&lt;/li&gt;
     &lt;/ol&gt;
     &lt;figure&gt;
-    &lt;img src=&quot;http:/ACM2025S/quiz/3/sphere.png&quot; width=&quot;200&quot; /&gt;
+    &lt;img src=&quot;/quiz/3/sphere.png&quot; width=&quot;200&quot; /&gt;
     &lt;figcaption style=&quot;text-align:center&quot;&gt;
     &lt;/figcaption&gt;
 &lt;/figure&gt;
   &lt;/li&gt;
   &lt;li&gt;Consider a thin uniform disk of mass $M$ and radius $a$. Find the force on a mass $m$ located along the axis of the disk starting with the definition of the gravitational potential energy: $dU = -G\frac{dM~m}{r}$ and the fact that $\mathbf{F} = -\nabla U$ (score : 30)
     &lt;figure&gt;
-    &lt;img src=&quot;http:/ACM2025S/quiz/3/disk.png&quot; width=&quot;400&quot; /&gt;
+    &lt;img src=&quot;/quiz/3/disk.png&quot; width=&quot;400&quot; /&gt;
     &lt;figcaption style=&quot;text-align:center&quot;&gt;
     &lt;/figcaption&gt;
 &lt;/figure&gt;
   &lt;/li&gt;
   &lt;li&gt;(&lt;strong&gt;Extra Credit&lt;/strong&gt;.) Astronomical measurements indicate that the orbital speed of masses in many spiral galaxies rotating about their centers is approximately constant as a function of distance from the center of the galaxy (like our own Milky Way and our nearest neighbor Andromeda) as shown in the following figure. Show that this experimental result is inconsistent with the galaxy having its mass concentrated near the center of the galaxy (where the spiral arms exist) and necessitates the mass of the galaxy to increase linearly or super-linearly with distance $r$ from the galactic center. This hidden mass is what’s been called the &lt;strong&gt;Dark Matter&lt;/strong&gt;, one of the greatest mysteries of the contemporary physics comprising more than $90\%$ of the mass of our universe. (score : 10)
     &lt;figure&gt;
-    &lt;img src=&quot;http:/ACM2025S/quiz/3/darkmatter.png&quot; width=&quot;500&quot; /&gt;
+    &lt;img src=&quot;/quiz/3/darkmatter.png&quot; width=&quot;500&quot; /&gt;
     &lt;figcaption style=&quot;text-align:center&quot;&gt;
         The solid line represents data for the orbital speed of mass as a function of distance from the center of the Andromeda galaxy. The dashed line represents the $1/\sqrt{r}$ behavior expected from the Keplerian result of Newton&apos;s laws.
     &lt;/figcaption&gt;
@@ -518,26 +518,26 @@ When returning your answers, mark the sets with the corresponding lecture note n
 
 
   
-  &lt;p&gt;&lt;a href=&quot;http:/ACM2025S/quiz/3&quot;&gt;Quiz 3&lt;/a&gt; was originally published by Amir Shahmoradi at &lt;a href=&quot;http:/ACM2025S&quot;&gt;Advanced Classical Mechanics - Spring 2025 - TTH 15:30-16:50 - Science Hall SH 129 / Microsoft Teams Virtual Room&lt;/a&gt; on March 04, 2025.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;/quiz/3&quot;&gt;Quiz 3&lt;/a&gt; was originally published by Amir Shahmoradi at &lt;a href=&quot;&quot;&gt;Advanced Classical Mechanics - Spring 2025 - TTH 15:30-16:50 - Science Hall SH 129 / Microsoft Teams Virtual Room&lt;/a&gt; on March 04, 2025.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Homework 4: Conservation Laws and Momentum]]></title>
-  <link rel="alternate" type="text/html" href="http:/ACM2025S/homework/4"/>
-  <id>http:/ACM2025S/homework/4</id>
+  <link rel="alternate" type="text/html" href="/homework/4"/>
+  <id>/homework/4</id>
   <published>2025-02-28T00:00:00-06:00</published>
   <updated>2025-02-28T00:00:00-06:00</updated>
   <author>
     <name>Amir Shahmoradi</name>
-    <uri>http:/ACM2025S</uri>
+    <uri></uri>
     <email>shahmoradi@utexas.edu</email>
   </author>
   
   <content type="html">
   
     
-&lt;p&gt;Here is &lt;a href=&quot;http:/ACM2025S/homework/acm-lecture-7-solutions.pdf&quot; target=&quot;_blank&quot;&gt;the solution to acm7&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Here is &lt;a href=&quot;/homework/acm-lecture-7-solutions.pdf&quot; target=&quot;_blank&quot;&gt;the solution to acm7&lt;/a&gt;.&lt;/p&gt;
 
 &lt;hr /&gt;
 &lt;hr /&gt;
@@ -545,7 +545,7 @@ When returning your answers, mark the sets with the corresponding lecture note n
 &lt;p&gt;&lt;br /&gt;
 The following figure illustrates the grade distribution for this activity.&lt;/p&gt;
 &lt;figure&gt;
-    &lt;img src=&quot;http:/ACM2025S/homework/hw4.png&quot; width=&quot;700&quot; /&gt;
+    &lt;img src=&quot;/homework/hw4.png&quot; width=&quot;700&quot; /&gt;
     &lt;figcaption style=&quot;text-align:center&quot;&gt;
         Maximum possible points is 100 (excluding extra credit).
     &lt;/figcaption&gt;
@@ -563,20 +563,20 @@ When returning your answers, mark the sets with the corresponding lecture note n
 &lt;/ol&gt;
 
   
-  &lt;p&gt;&lt;a href=&quot;http:/ACM2025S/homework/4&quot;&gt;Homework 4: Conservation Laws and Momentum&lt;/a&gt; was originally published by Amir Shahmoradi at &lt;a href=&quot;http:/ACM2025S&quot;&gt;Advanced Classical Mechanics - Spring 2025 - TTH 15:30-16:50 - Science Hall SH 129 / Microsoft Teams Virtual Room&lt;/a&gt; on February 28, 2025.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;/homework/4&quot;&gt;Homework 4: Conservation Laws and Momentum&lt;/a&gt; was originally published by Amir Shahmoradi at &lt;a href=&quot;&quot;&gt;Advanced Classical Mechanics - Spring 2025 - TTH 15:30-16:50 - Science Hall SH 129 / Microsoft Teams Virtual Room&lt;/a&gt; on February 28, 2025.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Quartet 3: Conservation Laws and Gravity]]></title>
-  <link rel="alternate" type="text/html" href="http:/ACM2025S/lecture/3"/>
-  <id>http:/ACM2025S/lecture/3</id>
+  <link rel="alternate" type="text/html" href="/lecture/3"/>
+  <id>/lecture/3</id>
   <published>2025-02-20T00:00:00-06:00</published>
   <updated>0000-00-00T00:00:00-00:00</updated>
   
   <author>
     <name>Amir Shahmoradi</name>
-    <uri>http:/ACM2025S</uri>
+    <uri></uri>
     <email>shahmoradi@utexas.edu</email>
   </author>
   
@@ -587,25 +587,25 @@ When returning your answers, mark the sets with the corresponding lecture note n
 &lt;/ul&gt;
 
   
-  &lt;p&gt;&lt;a href=&quot;http:/ACM2025S/lecture/3&quot;&gt;Quartet 3: Conservation Laws and Gravity&lt;/a&gt; was originally published by Amir Shahmoradi at &lt;a href=&quot;http:/ACM2025S&quot;&gt;Advanced Classical Mechanics - Spring 2025 - TTH 15:30-16:50 - Science Hall SH 129 / Microsoft Teams Virtual Room&lt;/a&gt; on February 20, 2025.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;/lecture/3&quot;&gt;Quartet 3: Conservation Laws and Gravity&lt;/a&gt; was originally published by Amir Shahmoradi at &lt;a href=&quot;&quot;&gt;Advanced Classical Mechanics - Spring 2025 - TTH 15:30-16:50 - Science Hall SH 129 / Microsoft Teams Virtual Room&lt;/a&gt; on February 20, 2025.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Homework 3: Conservation Laws and Gravity]]></title>
-  <link rel="alternate" type="text/html" href="http:/ACM2025S/homework/3"/>
-  <id>http:/ACM2025S/homework/3</id>
+  <link rel="alternate" type="text/html" href="/homework/3"/>
+  <id>/homework/3</id>
   <published>2025-02-20T00:00:00-06:00</published>
   <updated>2025-02-20T00:00:00-06:00</updated>
   <author>
     <name>Amir Shahmoradi</name>
-    <uri>http:/ACM2025S</uri>
+    <uri></uri>
     <email>shahmoradi@utexas.edu</email>
   </author>
   
   <content type="html">
   
-    &lt;p&gt;Here is &lt;a href=&quot;http:/ACM2025S/homework/acm-lecture-6-solutions.pdf&quot; target=&quot;_blank&quot;&gt;the solution to this homework&lt;/a&gt;.&lt;/p&gt;
+    &lt;p&gt;Here is &lt;a href=&quot;/homework/acm-lecture-6-solutions.pdf&quot; target=&quot;_blank&quot;&gt;the solution to this homework&lt;/a&gt;.&lt;/p&gt;
 
 &lt;hr /&gt;
 &lt;hr /&gt;
@@ -613,7 +613,7 @@ When returning your answers, mark the sets with the corresponding lecture note n
 &lt;p&gt;&lt;br /&gt;
 The following figure illustrates the grade distribution for this activity.&lt;/p&gt;
 &lt;figure&gt;
-    &lt;img src=&quot;http:/ACM2025S/homework/hw3.png&quot; width=&quot;700&quot; /&gt;
+    &lt;img src=&quot;/homework/hw3.png&quot; width=&quot;700&quot; /&gt;
     &lt;figcaption style=&quot;text-align:center&quot;&gt;
         Maximum possible points is 100 (excluding extra credit).
     &lt;/figcaption&gt;
@@ -631,19 +631,19 @@ When returning your answers, mark the sets with the corresponding lecture note n
 &lt;/ol&gt;
 
   
-  &lt;p&gt;&lt;a href=&quot;http:/ACM2025S/homework/3&quot;&gt;Homework 3: Conservation Laws and Gravity&lt;/a&gt; was originally published by Amir Shahmoradi at &lt;a href=&quot;http:/ACM2025S&quot;&gt;Advanced Classical Mechanics - Spring 2025 - TTH 15:30-16:50 - Science Hall SH 129 / Microsoft Teams Virtual Room&lt;/a&gt; on February 20, 2025.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;/homework/3&quot;&gt;Homework 3: Conservation Laws and Gravity&lt;/a&gt; was originally published by Amir Shahmoradi at &lt;a href=&quot;&quot;&gt;Advanced Classical Mechanics - Spring 2025 - TTH 15:30-16:50 - Science Hall SH 129 / Microsoft Teams Virtual Room&lt;/a&gt; on February 20, 2025.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Quiz 2]]></title>
-  <link rel="alternate" type="text/html" href="http:/ACM2025S/quiz/2"/>
-  <id>http:/ACM2025S/quiz/2</id>
+  <link rel="alternate" type="text/html" href="/quiz/2"/>
+  <id>/quiz/2</id>
   <published>2025-02-18T00:00:00-06:00</published>
   <updated>2025-02-18T00:00:00-06:00</updated>
   <author>
     <name>Amir Shahmoradi</name>
-    <uri>http:/ACM2025S</uri>
+    <uri></uri>
     <email>shahmoradi@utexas.edu</email>
   </author>
   
@@ -651,7 +651,7 @@ When returning your answers, mark the sets with the corresponding lecture note n
   
     &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;Here is &lt;a href=&quot;http:/ACM2025S/quiz/acm-quiz-2-solutions.pdf&quot; target=&quot;_blank&quot;&gt;the solution to this quiz&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Here is &lt;a href=&quot;/quiz/acm-quiz-2-solutions.pdf&quot; target=&quot;_blank&quot;&gt;the solution to this quiz&lt;/a&gt;.&lt;/p&gt;
 
 &lt;hr /&gt;
 &lt;hr /&gt;
@@ -660,7 +660,7 @@ When returning your answers, mark the sets with the corresponding lecture note n
 
 &lt;p&gt;The following figure illustrates the grade distribution for this activity.&lt;/p&gt;
 &lt;figure&gt;
-    &lt;img src=&quot;http:/ACM2025S/quiz/qz2.png&quot; width=&quot;700&quot; /&gt;
+    &lt;img src=&quot;/quiz/qz2.png&quot; width=&quot;700&quot; /&gt;
     &lt;figcaption style=&quot;text-align:center&quot;&gt;
         Maximum possible points is 100 (excluding extra credit).
     &lt;/figcaption&gt;
@@ -681,7 +681,7 @@ You have 50 minutes to respond to the questions and submit your answers.&lt;/p&g
 &lt;strong&gt;b.&lt;/strong&gt;  Let there now be friction between the disk and the string, with coefficient $\mu$.&lt;br /&gt;
         What is the smallest possible tension in the string at its lowest point? (score : 30)
     &lt;figure&gt;
-    &lt;img src=&quot;http:/ACM2025S/quiz/2/p7.jpg&quot; width=&quot;250&quot; /&gt;
+    &lt;img src=&quot;/quiz/2/p7.jpg&quot; width=&quot;250&quot; /&gt;
     &lt;figcaption style=&quot;text-align:center&quot;&gt;
     &lt;/figcaption&gt;
 &lt;/figure&gt;
@@ -699,7 +699,7 @@ Recall that the motion of a particle in magnetic field is described by the force
 \(F_B = q{\mathbf v} \times {\mathbf B} = m{\mathbf a}\)
 in which ${\mathbf v}$ represents the velocity of the particle at any given moment.
     &lt;figure&gt;
-    &lt;img src=&quot;http:/ACM2025S/quiz/2/particleinb.jpg&quot; width=&quot;350&quot; /&gt;
+    &lt;img src=&quot;/quiz/2/particleinb.jpg&quot; width=&quot;350&quot; /&gt;
     &lt;figcaption style=&quot;text-align:center&quot;&gt;
     &lt;/figcaption&gt;
 &lt;/figure&gt;
@@ -718,19 +718,19 @@ in which ${\mathbf v}$ represents the velocity of the particle at any given mome
 
 
   
-  &lt;p&gt;&lt;a href=&quot;http:/ACM2025S/quiz/2&quot;&gt;Quiz 2&lt;/a&gt; was originally published by Amir Shahmoradi at &lt;a href=&quot;http:/ACM2025S&quot;&gt;Advanced Classical Mechanics - Spring 2025 - TTH 15:30-16:50 - Science Hall SH 129 / Microsoft Teams Virtual Room&lt;/a&gt; on February 18, 2025.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;/quiz/2&quot;&gt;Quiz 2&lt;/a&gt; was originally published by Amir Shahmoradi at &lt;a href=&quot;&quot;&gt;Advanced Classical Mechanics - Spring 2025 - TTH 15:30-16:50 - Science Hall SH 129 / Microsoft Teams Virtual Room&lt;/a&gt; on February 18, 2025.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Quiz 1]]></title>
-  <link rel="alternate" type="text/html" href="http:/ACM2025S/quiz/1"/>
-  <id>http:/ACM2025S/quiz/1</id>
+  <link rel="alternate" type="text/html" href="/quiz/1"/>
+  <id>/quiz/1</id>
   <published>2025-02-04T00:00:00-06:00</published>
   <updated>2025-02-04T00:00:00-06:00</updated>
   <author>
     <name>Amir Shahmoradi</name>
-    <uri>http:/ACM2025S</uri>
+    <uri></uri>
     <email>shahmoradi@utexas.edu</email>
   </author>
   
@@ -738,13 +738,13 @@ in which ${\mathbf v}$ represents the velocity of the particle at any given mome
   
     &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;Here is &lt;a href=&quot;http:/ACM2025S/quiz/acm-quiz-1-solutions.pdf&quot; target=&quot;_blank&quot;&gt;the solution to this quiz&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Here is &lt;a href=&quot;/quiz/acm-quiz-1-solutions.pdf&quot; target=&quot;_blank&quot;&gt;the solution to this quiz&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;p&gt;The following figure illustrates the grade distribution for this activity.&lt;/p&gt;
 &lt;figure&gt;
-    &lt;img src=&quot;http:/ACM2025S/quiz/qz1.png&quot; width=&quot;700&quot; /&gt;
+    &lt;img src=&quot;/quiz/qz1.png&quot; width=&quot;700&quot; /&gt;
     &lt;figcaption style=&quot;text-align:center&quot;&gt;
         Maximum possible points is 100 (excluding extra credit).
     &lt;/figcaption&gt;
@@ -807,12 +807,12 @@ Assuming that one of the following quantities is the initial speed
 required to make the ball hit right at the edge of the cliff, which one is it?&lt;br /&gt;
 Justify your answer.&lt;/p&gt;
     &lt;figure&gt;
-    &lt;img src=&quot;http:/ACM2025S/quiz/1/landing-at-the-corner-figure.png&quot; width=&quot;250&quot; /&gt;
+    &lt;img src=&quot;/quiz/1/landing-at-the-corner-figure.png&quot; width=&quot;250&quot; /&gt;
     &lt;figcaption style=&quot;text-align:center&quot;&gt;
     &lt;/figcaption&gt;
 &lt;/figure&gt;
     &lt;figure&gt;
-    &lt;img src=&quot;http:/ACM2025S/quiz/1/landing-at-the-corner-equations.png&quot; width=&quot;450&quot; /&gt;
+    &lt;img src=&quot;/quiz/1/landing-at-the-corner-equations.png&quot; width=&quot;450&quot; /&gt;
     &lt;figcaption style=&quot;text-align:center&quot;&gt;
     &lt;/figcaption&gt;
 &lt;/figure&gt;
@@ -821,19 +821,19 @@ Justify your answer.&lt;/p&gt;
 
 
   
-  &lt;p&gt;&lt;a href=&quot;http:/ACM2025S/quiz/1&quot;&gt;Quiz 1&lt;/a&gt; was originally published by Amir Shahmoradi at &lt;a href=&quot;http:/ACM2025S&quot;&gt;Advanced Classical Mechanics - Spring 2025 - TTH 15:30-16:50 - Science Hall SH 129 / Microsoft Teams Virtual Room&lt;/a&gt; on February 04, 2025.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;/quiz/1&quot;&gt;Quiz 1&lt;/a&gt; was originally published by Amir Shahmoradi at &lt;a href=&quot;&quot;&gt;Advanced Classical Mechanics - Spring 2025 - TTH 15:30-16:50 - Science Hall SH 129 / Microsoft Teams Virtual Room&lt;/a&gt; on February 04, 2025.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Homework 2: Newtonian Statics and Dynamics]]></title>
-  <link rel="alternate" type="text/html" href="http:/ACM2025S/homework/2"/>
-  <id>http:/ACM2025S/homework/2</id>
+  <link rel="alternate" type="text/html" href="/homework/2"/>
+  <id>/homework/2</id>
   <published>2025-01-30T00:00:00-06:00</published>
   <updated>2025-01-30T00:00:00-06:00</updated>
   <author>
     <name>Amir Shahmoradi</name>
-    <uri>http:/ACM2025S</uri>
+    <uri></uri>
     <email>shahmoradi@utexas.edu</email>
   </author>
   
@@ -844,7 +844,7 @@ Justify your answer.&lt;/p&gt;
 
 &lt;p&gt;The following figure illustrates the grade distribution for this activity.&lt;/p&gt;
 &lt;figure&gt;
-    &lt;img src=&quot;http:/ACM2025S/homework/hw2.png&quot; width=&quot;700&quot; /&gt;
+    &lt;img src=&quot;/homework/hw2.png&quot; width=&quot;700&quot; /&gt;
     &lt;figcaption style=&quot;text-align:center&quot;&gt;
         Maximum possible points is 100 (excluding extra credit).
     &lt;/figcaption&gt;
@@ -863,20 +863,20 @@ When returning your answers, mark the two sets with the lecture note number to m
 &lt;/ol&gt;
 
   
-  &lt;p&gt;&lt;a href=&quot;http:/ACM2025S/homework/2&quot;&gt;Homework 2: Newtonian Statics and Dynamics&lt;/a&gt; was originally published by Amir Shahmoradi at &lt;a href=&quot;http:/ACM2025S&quot;&gt;Advanced Classical Mechanics - Spring 2025 - TTH 15:30-16:50 - Science Hall SH 129 / Microsoft Teams Virtual Room&lt;/a&gt; on January 30, 2025.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;/homework/2&quot;&gt;Homework 2: Newtonian Statics and Dynamics&lt;/a&gt; was originally published by Amir Shahmoradi at &lt;a href=&quot;&quot;&gt;Advanced Classical Mechanics - Spring 2025 - TTH 15:30-16:50 - Science Hall SH 129 / Microsoft Teams Virtual Room&lt;/a&gt; on January 30, 2025.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Quartet 2: Newtonian Statics and Dynamics]]></title>
-  <link rel="alternate" type="text/html" href="http:/ACM2025S/lecture/2"/>
-  <id>http:/ACM2025S/lecture/2</id>
+  <link rel="alternate" type="text/html" href="/lecture/2"/>
+  <id>/lecture/2</id>
   <published>2025-01-26T00:00:00-06:00</published>
   <updated>0000-00-00T00:00:00-00:00</updated>
   
   <author>
     <name>Amir Shahmoradi</name>
-    <uri>http:/ACM2025S</uri>
+    <uri></uri>
     <email>shahmoradi@utexas.edu</email>
   </author>
   
@@ -888,20 +888,20 @@ When returning your answers, mark the two sets with the lecture note number to m
 &lt;/ul&gt;
 
   
-  &lt;p&gt;&lt;a href=&quot;http:/ACM2025S/lecture/2&quot;&gt;Quartet 2: Newtonian Statics and Dynamics&lt;/a&gt; was originally published by Amir Shahmoradi at &lt;a href=&quot;http:/ACM2025S&quot;&gt;Advanced Classical Mechanics - Spring 2025 - TTH 15:30-16:50 - Science Hall SH 129 / Microsoft Teams Virtual Room&lt;/a&gt; on January 26, 2025.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;/lecture/2&quot;&gt;Quartet 2: Newtonian Statics and Dynamics&lt;/a&gt; was originally published by Amir Shahmoradi at &lt;a href=&quot;&quot;&gt;Advanced Classical Mechanics - Spring 2025 - TTH 15:30-16:50 - Science Hall SH 129 / Microsoft Teams Virtual Room&lt;/a&gt; on January 26, 2025.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Quartet 1: Mathematical Foundations and Problem Solving Strategies]]></title>
-  <link rel="alternate" type="text/html" href="http:/ACM2025S/lecture/1"/>
-  <id>http:/ACM2025S/lecture/1</id>
+  <link rel="alternate" type="text/html" href="/lecture/1"/>
+  <id>/lecture/1</id>
   <published>2025-01-17T00:00:00-06:00</published>
   <updated>0000-00-00T00:00:00-00:00</updated>
   
   <author>
     <name>Amir Shahmoradi</name>
-    <uri>http:/ACM2025S</uri>
+    <uri></uri>
     <email>shahmoradi@utexas.edu</email>
   </author>
   
@@ -914,19 +914,19 @@ When returning your answers, mark the two sets with the lecture note number to m
 &lt;/ul&gt;
 
   
-  &lt;p&gt;&lt;a href=&quot;http:/ACM2025S/lecture/1&quot;&gt;Quartet 1: Mathematical Foundations and Problem Solving Strategies&lt;/a&gt; was originally published by Amir Shahmoradi at &lt;a href=&quot;http:/ACM2025S&quot;&gt;Advanced Classical Mechanics - Spring 2025 - TTH 15:30-16:50 - Science Hall SH 129 / Microsoft Teams Virtual Room&lt;/a&gt; on January 17, 2025.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;/lecture/1&quot;&gt;Quartet 1: Mathematical Foundations and Problem Solving Strategies&lt;/a&gt; was originally published by Amir Shahmoradi at &lt;a href=&quot;&quot;&gt;Advanced Classical Mechanics - Spring 2025 - TTH 15:30-16:50 - Science Hall SH 129 / Microsoft Teams Virtual Room&lt;/a&gt; on January 17, 2025.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Homework 1: Mathematical Foundations & Problem-Solving Techniques]]></title>
-  <link rel="alternate" type="text/html" href="http:/ACM2025S/homework/1"/>
-  <id>http:/ACM2025S/homework/1</id>
+  <link rel="alternate" type="text/html" href="/homework/1"/>
+  <id>/homework/1</id>
   <published>2025-01-17T00:00:00-06:00</published>
   <updated>2025-01-17T00:00:00-06:00</updated>
   <author>
     <name>Amir Shahmoradi</name>
-    <uri>http:/ACM2025S</uri>
+    <uri></uri>
     <email>shahmoradi@utexas.edu</email>
   </author>
   
@@ -937,7 +937,7 @@ When returning your answers, mark the two sets with the lecture note number to m
 
 &lt;p&gt;The following figure illustrates the grade distribution for this activity.&lt;/p&gt;
 &lt;figure&gt;
-    &lt;img src=&quot;http:/ACM2025S/homework/hw1.png&quot; width=&quot;700&quot; /&gt;
+    &lt;img src=&quot;/homework/hw1.png&quot; width=&quot;700&quot; /&gt;
     &lt;figcaption style=&quot;text-align:center&quot;&gt;
         Maximum possible points is 100 (excluding extra credit).
     &lt;/figcaption&gt;
@@ -956,7 +956,7 @@ When returning your answers, mark the two sets with the lecture note number to m
 &lt;/ol&gt;
 
   
-  &lt;p&gt;&lt;a href=&quot;http:/ACM2025S/homework/1&quot;&gt;Homework 1: Mathematical Foundations & Problem-Solving Techniques&lt;/a&gt; was originally published by Amir Shahmoradi at &lt;a href=&quot;http:/ACM2025S&quot;&gt;Advanced Classical Mechanics - Spring 2025 - TTH 15:30-16:50 - Science Hall SH 129 / Microsoft Teams Virtual Room&lt;/a&gt; on January 17, 2025.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;/homework/1&quot;&gt;Homework 1: Mathematical Foundations & Problem-Solving Techniques&lt;/a&gt; was originally published by Amir Shahmoradi at &lt;a href=&quot;&quot;&gt;Advanced Classical Mechanics - Spring 2025 - TTH 15:30-16:50 - Science Hall SH 129 / Microsoft Teams Virtual Room&lt;/a&gt; on January 17, 2025.&lt;/p&gt;</content>
 </entry>
 
 </feed>
