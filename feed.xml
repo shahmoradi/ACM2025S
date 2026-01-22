@@ -7,167 +7,13 @@
 <generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="http:/ACM2025S/feed.xml" />
 <link rel="alternate" type="text/html" href="http:/ACM2025S/" />
-<updated>2026-01-07T12:34:55-06:00</updated>
+<updated>2026-01-22T13:35:25-06:00</updated>
 <id>http:/ACM2025S/</id>
 <author>
   <name>Amir Shahmoradi</name>
   <uri>http:/ACM2025S/</uri>
   <email>shahmoradi@utexas.edu</email>
 </author>
-
-
-<entry>
-  <title type="html"><![CDATA[Homework 7: Coupled Oscillations (optional)]]></title>
-  <link rel="alternate" type="text/html" href="http:/ACM2025S/homework/7"/>
-  <id>http:/ACM2025S/homework/7</id>
-  <published>2025-04-29T00:00:00-05:00</published>
-  <updated>2025-04-29T00:00:00-05:00</updated>
-  <author>
-    <name>Amir Shahmoradi</name>
-    <uri>http:/ACM2025S</uri>
-    <email>shahmoradi@utexas.edu</email>
-  </author>
-  
-  <content type="html">
-  
-    
-&lt;p&gt;♣ &lt;strong&gt;Due Date: Thursday May 1, 2025 at 2:00 PM&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;See the following lecture notes for the homework problems. 
-When returning your answers, mark the sets with the corresponding lecture note numbers to make the sets distinguishable:
-    &lt;ul&gt;
-      &lt;li&gt;&lt;a href=&quot;../lecture/acm11.pdf&quot; target=&quot;_blank&quot;&gt;acm11.pdf&lt;/a&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
-
-  
-  &lt;p&gt;&lt;a href=&quot;http:/ACM2025S/homework/7&quot;&gt;Homework 7: Coupled Oscillations (optional)&lt;/a&gt; was originally published by Amir Shahmoradi at &lt;a href=&quot;http:/ACM2025S&quot;&gt;Advanced Classical Mechanics - Spring 2025 - TTH 15:30-16:50 - Science Hall SH 129 / Microsoft Teams Virtual Room&lt;/a&gt; on April 29, 2025.&lt;/p&gt;</content>
-</entry>
-
-
-<entry>
-  <title type="html"><![CDATA[Quiz 6]]></title>
-  <link rel="alternate" type="text/html" href="http:/ACM2025S/quiz/6"/>
-  <id>http:/ACM2025S/quiz/6</id>
-  <published>2025-04-22T00:00:00-05:00</published>
-  <updated>2025-04-22T00:00:00-05:00</updated>
-  <author>
-    <name>Amir Shahmoradi</name>
-    <uri>http:/ACM2025S</uri>
-    <email>shahmoradi@utexas.edu</email>
-  </author>
-  
-  <content type="html">
-  
-    &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;Here is &lt;a href=&quot;http:/ACM2025S/quiz/acm-quiz-6-solutions.pdf&quot; target=&quot;_blank&quot;&gt;the solution to this quiz&lt;/a&gt;.&lt;/p&gt;
-
-&lt;hr /&gt;
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;You have 50 minutes to respond to the questions and submit your answers.&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;(score : 5)&lt;/strong&gt; 
-What is the strict definition of oscillatory motion in Classical Mechanics?&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;(score : 15)&lt;/strong&gt; 
-Consider the following equations of motion.&lt;br /&gt;
-\(\begin{eqnarray}  
-    \ddot x + \omega^2 x &amp;amp;=&amp;amp; 0. \\  
-    \ddot x + 2\beta\dot x + \omega_0^2 x &amp;amp;=&amp;amp; 0. \\  
-    \ddot x + 2\beta\dot x + \omega_0^2 x &amp;amp;=&amp;amp; A\cos(\omega t). \\  
-\end{eqnarray}\)
-    &lt;ol&gt;
-      &lt;li&gt;(score : 6) What kind of motion do each of the following differential equations describe?&lt;/li&gt;
-      &lt;li&gt;(score : 6) What kind of contributions do each of the terms in the above equations make to the motion?&lt;/li&gt;
-      &lt;li&gt;(score : 3) Why is there commonly a factor of $2$ associated with the term $\beta\dot x$?&lt;br /&gt;
-&lt;br /&gt;&lt;/li&gt;
-    &lt;/ol&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;(score : 20)&lt;/strong&gt; 
-Under what conditions a pendulum behaves like a simple harmonic oscillator? (score : )&lt;br /&gt;
-Derive the relevant equation of motion. (score : )&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;(score : 15)&lt;/strong&gt; 
-Consider the motion $x(t) = A\sin(\omega t - \delta)$.
-    &lt;ol&gt;
-      &lt;li&gt;(score : 3) What is the physical meaning of $A$ in the position equation above?&lt;/li&gt;
-      &lt;li&gt;(score : 6) Show that this position equation satisfies the simple harmonic oscillator’s equation of motion.&lt;/li&gt;
-      &lt;li&gt;(score : 6) Show that the phase path equation of a one-dimensional simple harmonic oscillator is an ellipse 
-whose semi-major and semi-minor axes are $A$ and $A\omega$.&lt;br /&gt;
-&lt;br /&gt;&lt;/li&gt;
-    &lt;/ol&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;(score : 15)&lt;/strong&gt; 
-Consider the motion of a particle described by $x(t) = A \exp(-\frac{\beta}{2}t) \sin(\omega t - \delta)$.
-    &lt;ol&gt;
-      &lt;li&gt;(score : 3) What kind of motion is this?&lt;/li&gt;
-      &lt;li&gt;(score : 6) Derive an equation for the kinetic energy of this system.&lt;/li&gt;
-      &lt;li&gt;(score : 6) Draw a schematic phase diagram for this system.&lt;br /&gt;
-&lt;br /&gt;&lt;/li&gt;
-    &lt;/ol&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;(score : 30)&lt;/strong&gt; 
-Consider a pendulum made of a spring with a mass 𝑚 on the end. 
-The spring is arranged to lie in a straight line (which we can arrange by, say, wrapping the spring around a rigid massless rod). 
-The equilibrium length of the spring is $l$. Let the spring have length $l+x(t)$, and let its angle with the vertical be $\theta(t)$. 
-Assuming that the motion takes place in a vertical plane, find the equations of motion for $x$ and $\theta$.
-    &lt;figure&gt;
-    &lt;img src=&quot;http:/ACM2025S/quiz/6/springlagrangian.png&quot; width=&quot;200&quot; /&gt;
-&lt;/figure&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
-
-  
-  &lt;p&gt;&lt;a href=&quot;http:/ACM2025S/quiz/6&quot;&gt;Quiz 6&lt;/a&gt; was originally published by Amir Shahmoradi at &lt;a href=&quot;http:/ACM2025S&quot;&gt;Advanced Classical Mechanics - Spring 2025 - TTH 15:30-16:50 - Science Hall SH 129 / Microsoft Teams Virtual Room&lt;/a&gt; on April 22, 2025.&lt;/p&gt;</content>
-</entry>
-
-
-<entry>
-  <title type="html"><![CDATA[Homework 6: Oscillations]]></title>
-  <link rel="alternate" type="text/html" href="http:/ACM2025S/homework/6"/>
-  <id>http:/ACM2025S/homework/6</id>
-  <published>2025-04-22T00:00:00-05:00</published>
-  <updated>2025-04-22T00:00:00-05:00</updated>
-  <author>
-    <name>Amir Shahmoradi</name>
-    <uri>http:/ACM2025S</uri>
-    <email>shahmoradi@utexas.edu</email>
-  </author>
-  
-  <content type="html">
-  
-    &lt;p&gt;Here is &lt;a href=&quot;http:/ACM2025S/homework/acm-lecture-10-solutions.pdf&quot; target=&quot;_blank&quot;&gt;the solution to acm10&lt;/a&gt;.&lt;/p&gt;
-
-&lt;hr /&gt;
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;♣ &lt;strong&gt;Due Date: Tuesday April 22, 2025 at 3:30 PM&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;See the following lecture notes for the homework problems. 
-When returning your answers, mark the sets with the corresponding lecture note numbers to make the sets distinguishable:
-    &lt;ul&gt;
-      &lt;li&gt;&lt;a href=&quot;../lecture/acm10.pdf&quot; target=&quot;_blank&quot;&gt;acm10.pdf&lt;/a&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
-
-  
-  &lt;p&gt;&lt;a href=&quot;http:/ACM2025S/homework/6&quot;&gt;Homework 6: Oscillations&lt;/a&gt; was originally published by Amir Shahmoradi at &lt;a href=&quot;http:/ACM2025S&quot;&gt;Advanced Classical Mechanics - Spring 2025 - TTH 15:30-16:50 - Science Hall SH 129 / Microsoft Teams Virtual Room&lt;/a&gt; on April 22, 2025.&lt;/p&gt;</content>
-</entry>
 
 
 <entry>
@@ -195,75 +41,6 @@ When returning your answers, mark the sets with the corresponding lecture note n
 
 
 <entry>
-  <title type="html"><![CDATA[Quiz 5]]></title>
-  <link rel="alternate" type="text/html" href="http:/ACM2025S/quiz/5"/>
-  <id>http:/ACM2025S/quiz/5</id>
-  <published>2025-04-08T00:00:00-05:00</published>
-  <updated>2025-04-08T00:00:00-05:00</updated>
-  <author>
-    <name>Amir Shahmoradi</name>
-    <uri>http:/ACM2025S</uri>
-    <email>shahmoradi@utexas.edu</email>
-  </author>
-  
-  <content type="html">
-  
-    &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;Here is &lt;a href=&quot;http:/ACM2025S/quiz/acm-quiz-5-solutions.pdf&quot; target=&quot;_blank&quot;&gt;the solution to this quiz&lt;/a&gt;.&lt;/p&gt;
-
-&lt;hr /&gt;
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;You have 45 minutes to respond to the questions and submit your answers.&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;
-    &lt;p&gt;Consider the following integral of the functional $f(\cdot)$ of of the function $y(x)$ 
-and its derivative $\dot y(x)$ as a function of the independent variable $x$:&lt;br /&gt;
-&lt;br /&gt;
-\(J = \int_{x_1}^{x_2} f(y(x), \dot y(x); x) ~ dx\)&lt;br /&gt;
-&lt;br /&gt;
-which we would like to extremize. Show that the necessary condition for achieving this goal is the following constraint,&lt;br /&gt;
-&lt;br /&gt;
-\(\frac{\partial \mathcal{L}}{\partial y} - \frac{d}{dt}\frac{\partial \mathcal{L}}{\partial \dot y} = 0\)&lt;br /&gt;
-&lt;br /&gt;
-Is this a necessary or sufficient condition (or both)? (score : 30)&lt;br /&gt;
-(&lt;strong&gt;Hint:&lt;/strong&gt; Remember that you need to introduce an auxiliary variable whose variation will explore different $y(x)$. The Integration by parts will give you: $\int u dv = uv - \int vdu$.)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Show that the Euler-Lagrange equations are equivalent to the Newton’s third law: ${\bf F} = \dot {\bf P}$. (score : 25)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Write down the Lagrangian for a frictionless ball thrown in the air in an arbitrary direction on earth. 
-Show that the lack of dependence of the Lagrangian on the X and Y coordinates implies that the momenta along the X and Y directions are conserved.  (score : 20)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;A block of mass $m$ is held motionless on a frictionless plane of mass $M$ and angle of inclination $\theta$. 
-The plane rests on a frictionless horizontal surface. The block is released. 
-Show that the resulting Lagrangian equations for the motions of the two masses necessitate the conservation of linear momentum along the horizontal axis. (score : 25)&lt;br /&gt;
-(&lt;strong&gt;Hint:&lt;/strong&gt; Note that there are three montions involved in this problem: 
-1) The horizontal displacement of the mass $M$ to the left. 
-2) The horizontal displacement of the mass $m$ to the right. 
-3) The vertical displacement of the mass $m$ downward. 
-You must therefore consider all relevant components of the Kinetic and Potential energies in the Lagrangian.
-Once you obtain the Lagrangian equations, see what combination of the two equations yields the desired result.)&lt;/p&gt;
-    &lt;figure&gt;
-    &lt;img src=&quot;http:/ACM2025S/quiz/5/block.png&quot; width=&quot;300&quot; /&gt;
-&lt;/figure&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
-
-  
-  &lt;p&gt;&lt;a href=&quot;http:/ACM2025S/quiz/5&quot;&gt;Quiz 5&lt;/a&gt; was originally published by Amir Shahmoradi at &lt;a href=&quot;http:/ACM2025S&quot;&gt;Advanced Classical Mechanics - Spring 2025 - TTH 15:30-16:50 - Science Hall SH 129 / Microsoft Teams Virtual Room&lt;/a&gt; on April 08, 2025.&lt;/p&gt;</content>
-</entry>
-
-
-<entry>
   <title type="html"><![CDATA[Quartet 6: Oscillation]]></title>
   <link rel="alternate" type="text/html" href="http:/ACM2025S/lecture/6"/>
   <id>http:/ACM2025S/lecture/6</id>
@@ -284,112 +61,6 @@ Once you obtain the Lagrangian equations, see what combination of the two equati
 
   
   &lt;p&gt;&lt;a href=&quot;http:/ACM2025S/lecture/6&quot;&gt;Quartet 6: Oscillation&lt;/a&gt; was originally published by Amir Shahmoradi at &lt;a href=&quot;http:/ACM2025S&quot;&gt;Advanced Classical Mechanics - Spring 2025 - TTH 15:30-16:50 - Science Hall SH 129 / Microsoft Teams Virtual Room&lt;/a&gt; on April 08, 2025.&lt;/p&gt;</content>
-</entry>
-
-
-<entry>
-  <title type="html"><![CDATA[Quiz 4]]></title>
-  <link rel="alternate" type="text/html" href="http:/ACM2025S/quiz/4"/>
-  <id>http:/ACM2025S/quiz/4</id>
-  <published>2025-03-25T00:00:00-05:00</published>
-  <updated>2025-03-25T00:00:00-05:00</updated>
-  <author>
-    <name>Amir Shahmoradi</name>
-    <uri>http:/ACM2025S</uri>
-    <email>shahmoradi@utexas.edu</email>
-  </author>
-  
-  <content type="html">
-  
-    &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;Here is &lt;a href=&quot;http:/ACM2025S/quiz/acm-quiz-4-solutions.pdf&quot; target=&quot;_blank&quot;&gt;the solution to this quiz&lt;/a&gt;.&lt;/p&gt;
-
-&lt;hr /&gt;
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;The following figure illustrates the grade distribution for this activity.&lt;/p&gt;
-&lt;figure&gt;
-    &lt;img src=&quot;http:/ACM2025S/quiz/qz4.png&quot; width=&quot;700&quot; /&gt;
-    &lt;figcaption style=&quot;text-align:center&quot;&gt;
-        Maximum possible points is 100 (excluding extra credit).
-    &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;hr /&gt;
-&lt;hr /&gt;
-
-&lt;p&gt;You have 40 minutes to respond to the questions and submit your answers.&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;
-    &lt;p&gt;Show that in a 1-dimensional elastic collision, the relative velocity of the two particles after the collision is the negative of the relative velocity before the collision (Hint: You need to invoke two conservation laws). (score : 30)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Sand drops vertically (from a negligible height) at a rate $\sigma [kg/s]$ onto a moving conveyor belt.
-    &lt;ol&gt;
-      &lt;li&gt;What force must you apply to the belt to keep it moving at a constant speed v? (score : 10)&lt;/li&gt;
-      &lt;li&gt;How much kinetic energy does the sand gain per unit time? (score : 10)&lt;/li&gt;
-      &lt;li&gt;How much work do you do per unit time? (score : 10)&lt;/li&gt;
-      &lt;li&gt;How much energy is lost to heat per unit time? (score : 10)&lt;br /&gt;
-&lt;br /&gt;&lt;/li&gt;
-    &lt;/ol&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;A completely flexible, infinitesimally thin, and non-stretchable chain with length $L$ and mass density $\sigma [kg/m]$ is held such that it hangs vertically just above a scale. 
-It is then released. What is the reading on the scale as a function of the height of the top of the chain?  (score : 30)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;(&lt;strong&gt;Extra Credit&lt;/strong&gt;.) 
-A sphere of mass $M$ and radius $R$ moves with speed $V$ through a region of space that contains particles of mass $m$ that are at rest with a volumetric density $n$ per unit volume. 
-Assume $m « M$ and that the particles do not interact with each other. (Hint: Note that $F = \frac{d P}{dt}$ and $2\sin(\theta)\cos(\theta) = \sin(2\theta)$.
-What is the effective drag force experienced by the sphere? (score : 20)&lt;/li&gt;
-&lt;/ol&gt;
-
-
-  
-  &lt;p&gt;&lt;a href=&quot;http:/ACM2025S/quiz/4&quot;&gt;Quiz 4&lt;/a&gt; was originally published by Amir Shahmoradi at &lt;a href=&quot;http:/ACM2025S&quot;&gt;Advanced Classical Mechanics - Spring 2025 - TTH 15:30-16:50 - Science Hall SH 129 / Microsoft Teams Virtual Room&lt;/a&gt; on March 25, 2025.&lt;/p&gt;</content>
-</entry>
-
-
-<entry>
-  <title type="html"><![CDATA[Homework 5: Calculus of Variations and Lagrangian Mechanics]]></title>
-  <link rel="alternate" type="text/html" href="http:/ACM2025S/homework/5"/>
-  <id>http:/ACM2025S/homework/5</id>
-  <published>2025-03-25T00:00:00-05:00</published>
-  <updated>2025-03-25T00:00:00-05:00</updated>
-  <author>
-    <name>Amir Shahmoradi</name>
-    <uri>http:/ACM2025S</uri>
-    <email>shahmoradi@utexas.edu</email>
-  </author>
-  
-  <content type="html">
-  
-    &lt;p&gt;Here is &lt;a href=&quot;http:/ACM2025S/homework/acm-lecture-8-solutions.pdf&quot; target=&quot;_blank&quot;&gt;the solution to acm8&lt;/a&gt;.&lt;br /&gt;
-Here is &lt;a href=&quot;http:/ACM2025S/homework/acm-lecture-9-solutions.pdf&quot; target=&quot;_blank&quot;&gt;the solution to acm9&lt;/a&gt;.&lt;/p&gt;
-
-&lt;hr /&gt;
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;♣ &lt;strong&gt;Due Date: Tuesday April 8, 2025 at 3:30 PM&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;See the following lecture notes for the homework problems. 
-When returning your answers, mark the sets with the corresponding lecture note numbers to make the sets distinguishable:
-    &lt;ul&gt;
-      &lt;li&gt;&lt;a href=&quot;../lecture/acm8.pdf&quot; target=&quot;_blank&quot;&gt;acm8.pdf&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;../lecture/acm9.pdf&quot; target=&quot;_blank&quot;&gt;acm9.pdf&lt;/a&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
-
-  
-  &lt;p&gt;&lt;a href=&quot;http:/ACM2025S/homework/5&quot;&gt;Homework 5: Calculus of Variations and Lagrangian Mechanics&lt;/a&gt; was originally published by Amir Shahmoradi at &lt;a href=&quot;http:/ACM2025S&quot;&gt;Advanced Classical Mechanics - Spring 2025 - TTH 15:30-16:50 - Science Hall SH 129 / Microsoft Teams Virtual Room&lt;/a&gt; on March 25, 2025.&lt;/p&gt;</content>
 </entry>
 
 
@@ -443,131 +114,6 @@ When returning your answers, mark the sets with the corresponding lecture note n
 
 
 <entry>
-  <title type="html"><![CDATA[Quiz 3]]></title>
-  <link rel="alternate" type="text/html" href="http:/ACM2025S/quiz/3"/>
-  <id>http:/ACM2025S/quiz/3</id>
-  <published>2025-03-04T00:00:00-06:00</published>
-  <updated>2025-03-04T00:00:00-06:00</updated>
-  <author>
-    <name>Amir Shahmoradi</name>
-    <uri>http:/ACM2025S</uri>
-    <email>shahmoradi@utexas.edu</email>
-  </author>
-  
-  <content type="html">
-  
-    &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;Here is &lt;a href=&quot;http:/ACM2025S/quiz/acm-quiz-3-solutions.pdf&quot; target=&quot;_blank&quot;&gt;the solution to this quiz&lt;/a&gt;.&lt;/p&gt;
-
-&lt;hr /&gt;
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;The following figure illustrates the grade distribution for this activity.&lt;/p&gt;
-&lt;figure&gt;
-    &lt;img src=&quot;http:/ACM2025S/quiz/qz3.png&quot; width=&quot;700&quot; /&gt;
-    &lt;figcaption style=&quot;text-align:center&quot;&gt;
-        Maximum possible points is 100 (excluding extra credit).
-    &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;hr /&gt;
-&lt;hr /&gt;
-
-&lt;p&gt;You have 60 minutes to respond to the questions and submit your answers.&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;
-    &lt;p&gt;A pendulum is held with its string horizontally and is then released. The mass swings down, and then on its way back up, the string is cut when it makes an angle $\theta$ with the vertical. What should $\theta$ be so that the mass travels the largest horizontal distance by the time it returns to the height it had when the string was cut? &lt;strong&gt;Hint&lt;/strong&gt;: Recall the horizontal distance traveled by a projectile motion with initial velocity $v_0$ with a launch angle $\phi$ is $x = \frac{v_0^2 \sin(2\phi)}{g}$ where $\sin(2\phi) = 2\sin(\phi)\cos(\phi)$. (score : 20)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;A small mass rests on top of a fixed frictionless sphere. The mass is given an extremely tiny kick to help it start sliding downward. At what point (angle with respect to the horizontal line) does it lose contact with the sphere? &lt;strong&gt;Hint&lt;/strong&gt;: Think of the minimum force required to keep the object on the surface of the sphere and how it relates to the work-energy theorem. (score : 20)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;A straight frictionless tube is drilled between two points on the earth, as shown in the figure. An object is dropped into the tube with initial zero velocity $v_0 = 0$. Assume (incorrectly) that the density of the earth is constant.
-    &lt;ol&gt;
-      &lt;li&gt;At what point does the object feel the smallest amount of gravitational force? (score : 5)&lt;/li&gt;
-      &lt;li&gt;What is the value of this minimum force? (score : 10)&lt;/li&gt;
-      &lt;li&gt;What is the speed of the object at this point of minimum force? &lt;strong&gt;Hint&lt;/strong&gt;: Recall the differential form of the Newton equation $\mathbf{F}=m\mathbf{a}$ we discussed in class that connects the force to velocity and differentials of velocity and displacement. (score : 15)&lt;/li&gt;
-    &lt;/ol&gt;
-    &lt;figure&gt;
-    &lt;img src=&quot;http:/ACM2025S/quiz/3/sphere.png&quot; width=&quot;200&quot; /&gt;
-    &lt;figcaption style=&quot;text-align:center&quot;&gt;
-    &lt;/figcaption&gt;
-&lt;/figure&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Consider a thin uniform disk of mass $M$ and radius $a$. Find the force on a mass $m$ located along the axis of the disk starting with the definition of the gravitational potential energy: $dU = -G\frac{dM~m}{r}$ and the fact that $\mathbf{F} = -\nabla U$ (score : 30)
-    &lt;figure&gt;
-    &lt;img src=&quot;http:/ACM2025S/quiz/3/disk.png&quot; width=&quot;400&quot; /&gt;
-    &lt;figcaption style=&quot;text-align:center&quot;&gt;
-    &lt;/figcaption&gt;
-&lt;/figure&gt;
-  &lt;/li&gt;
-  &lt;li&gt;(&lt;strong&gt;Extra Credit&lt;/strong&gt;.) Astronomical measurements indicate that the orbital speed of masses in many spiral galaxies rotating about their centers is approximately constant as a function of distance from the center of the galaxy (like our own Milky Way and our nearest neighbor Andromeda) as shown in the following figure. Show that this experimental result is inconsistent with the galaxy having its mass concentrated near the center of the galaxy (where the spiral arms exist) and necessitates the mass of the galaxy to increase linearly or super-linearly with distance $r$ from the galactic center. This hidden mass is what’s been called the &lt;strong&gt;Dark Matter&lt;/strong&gt;, one of the greatest mysteries of the contemporary physics comprising more than $90\%$ of the mass of our universe. (score : 10)
-    &lt;figure&gt;
-    &lt;img src=&quot;http:/ACM2025S/quiz/3/darkmatter.png&quot; width=&quot;500&quot; /&gt;
-    &lt;figcaption style=&quot;text-align:center&quot;&gt;
-        The solid line represents data for the orbital speed of mass as a function of distance from the center of the Andromeda galaxy. The dashed line represents the $1/\sqrt{r}$ behavior expected from the Keplerian result of Newton&apos;s laws.
-    &lt;/figcaption&gt;
-&lt;/figure&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
-
-
-  
-  &lt;p&gt;&lt;a href=&quot;http:/ACM2025S/quiz/3&quot;&gt;Quiz 3&lt;/a&gt; was originally published by Amir Shahmoradi at &lt;a href=&quot;http:/ACM2025S&quot;&gt;Advanced Classical Mechanics - Spring 2025 - TTH 15:30-16:50 - Science Hall SH 129 / Microsoft Teams Virtual Room&lt;/a&gt; on March 04, 2025.&lt;/p&gt;</content>
-</entry>
-
-
-<entry>
-  <title type="html"><![CDATA[Homework 4: Conservation Laws and Momentum]]></title>
-  <link rel="alternate" type="text/html" href="http:/ACM2025S/homework/4"/>
-  <id>http:/ACM2025S/homework/4</id>
-  <published>2025-02-28T00:00:00-06:00</published>
-  <updated>2025-02-28T00:00:00-06:00</updated>
-  <author>
-    <name>Amir Shahmoradi</name>
-    <uri>http:/ACM2025S</uri>
-    <email>shahmoradi@utexas.edu</email>
-  </author>
-  
-  <content type="html">
-  
-    
-&lt;p&gt;Here is &lt;a href=&quot;http:/ACM2025S/homework/acm-lecture-7-solutions.pdf&quot; target=&quot;_blank&quot;&gt;the solution to acm7&lt;/a&gt;.&lt;/p&gt;
-
-&lt;hr /&gt;
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;br /&gt;
-The following figure illustrates the grade distribution for this activity.&lt;/p&gt;
-&lt;figure&gt;
-    &lt;img src=&quot;http:/ACM2025S/homework/hw4.png&quot; width=&quot;700&quot; /&gt;
-    &lt;figcaption style=&quot;text-align:center&quot;&gt;
-        Maximum possible points is 100 (excluding extra credit).
-    &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;♣ &lt;strong&gt;Due Date: Tuesday March 25, 2025 at 3:30 PM&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;See the following lecture notes for the homework problems. 
-When returning your answers, mark the sets with the corresponding lecture note numbers to make the sets distinguishable:
-    &lt;ul&gt;
-      &lt;li&gt;&lt;a href=&quot;../lecture/acm7.pdf&quot; target=&quot;_blank&quot;&gt;acm7.pdf&lt;/a&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
-
-  
-  &lt;p&gt;&lt;a href=&quot;http:/ACM2025S/homework/4&quot;&gt;Homework 4: Conservation Laws and Momentum&lt;/a&gt; was originally published by Amir Shahmoradi at &lt;a href=&quot;http:/ACM2025S&quot;&gt;Advanced Classical Mechanics - Spring 2025 - TTH 15:30-16:50 - Science Hall SH 129 / Microsoft Teams Virtual Room&lt;/a&gt; on February 28, 2025.&lt;/p&gt;</content>
-</entry>
-
-
-<entry>
   <title type="html"><![CDATA[Quartet 3: Conservation Laws and Gravity]]></title>
   <link rel="alternate" type="text/html" href="http:/ACM2025S/lecture/3"/>
   <id>http:/ACM2025S/lecture/3</id>
@@ -588,282 +134,6 @@ When returning your answers, mark the sets with the corresponding lecture note n
 
   
   &lt;p&gt;&lt;a href=&quot;http:/ACM2025S/lecture/3&quot;&gt;Quartet 3: Conservation Laws and Gravity&lt;/a&gt; was originally published by Amir Shahmoradi at &lt;a href=&quot;http:/ACM2025S&quot;&gt;Advanced Classical Mechanics - Spring 2025 - TTH 15:30-16:50 - Science Hall SH 129 / Microsoft Teams Virtual Room&lt;/a&gt; on February 20, 2025.&lt;/p&gt;</content>
-</entry>
-
-
-<entry>
-  <title type="html"><![CDATA[Homework 3: Conservation Laws and Gravity]]></title>
-  <link rel="alternate" type="text/html" href="http:/ACM2025S/homework/3"/>
-  <id>http:/ACM2025S/homework/3</id>
-  <published>2025-02-20T00:00:00-06:00</published>
-  <updated>2025-02-20T00:00:00-06:00</updated>
-  <author>
-    <name>Amir Shahmoradi</name>
-    <uri>http:/ACM2025S</uri>
-    <email>shahmoradi@utexas.edu</email>
-  </author>
-  
-  <content type="html">
-  
-    &lt;p&gt;Here is &lt;a href=&quot;http:/ACM2025S/homework/acm-lecture-6-solutions.pdf&quot; target=&quot;_blank&quot;&gt;the solution to this homework&lt;/a&gt;.&lt;/p&gt;
-
-&lt;hr /&gt;
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;br /&gt;
-The following figure illustrates the grade distribution for this activity.&lt;/p&gt;
-&lt;figure&gt;
-    &lt;img src=&quot;http:/ACM2025S/homework/hw3.png&quot; width=&quot;700&quot; /&gt;
-    &lt;figcaption style=&quot;text-align:center&quot;&gt;
-        Maximum possible points is 100 (excluding extra credit).
-    &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;♣ &lt;strong&gt;Due Date: Tuesday March 4, 2025 at 3:30 PM&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;See the following lecture notes for the homework problems. 
-When returning your answers, mark the sets with the corresponding lecture note numbers to make the sets distinguishable:
-    &lt;ul&gt;
-      &lt;li&gt;&lt;a href=&quot;../lecture/acm6.pdf&quot; target=&quot;_blank&quot;&gt;acm6.pdf&lt;/a&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
-
-  
-  &lt;p&gt;&lt;a href=&quot;http:/ACM2025S/homework/3&quot;&gt;Homework 3: Conservation Laws and Gravity&lt;/a&gt; was originally published by Amir Shahmoradi at &lt;a href=&quot;http:/ACM2025S&quot;&gt;Advanced Classical Mechanics - Spring 2025 - TTH 15:30-16:50 - Science Hall SH 129 / Microsoft Teams Virtual Room&lt;/a&gt; on February 20, 2025.&lt;/p&gt;</content>
-</entry>
-
-
-<entry>
-  <title type="html"><![CDATA[Quiz 2]]></title>
-  <link rel="alternate" type="text/html" href="http:/ACM2025S/quiz/2"/>
-  <id>http:/ACM2025S/quiz/2</id>
-  <published>2025-02-18T00:00:00-06:00</published>
-  <updated>2025-02-18T00:00:00-06:00</updated>
-  <author>
-    <name>Amir Shahmoradi</name>
-    <uri>http:/ACM2025S</uri>
-    <email>shahmoradi@utexas.edu</email>
-  </author>
-  
-  <content type="html">
-  
-    &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;Here is &lt;a href=&quot;http:/ACM2025S/quiz/acm-quiz-2-solutions.pdf&quot; target=&quot;_blank&quot;&gt;the solution to this quiz&lt;/a&gt;.&lt;/p&gt;
-
-&lt;hr /&gt;
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;The following figure illustrates the grade distribution for this activity.&lt;/p&gt;
-&lt;figure&gt;
-    &lt;img src=&quot;http:/ACM2025S/quiz/qz2.png&quot; width=&quot;700&quot; /&gt;
-    &lt;figcaption style=&quot;text-align:center&quot;&gt;
-        Maximum possible points is 100 (excluding extra credit).
-    &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;hr /&gt;
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;strong&gt;This quiz is open-lecture&lt;/strong&gt;, however, you are &lt;strong&gt;not&lt;/strong&gt; allowed to consult other resources or people.&lt;br /&gt;
-You have 50 minutes to respond to the questions and submit your answers.&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;&lt;strong&gt;a.&lt;/strong&gt;  A disk of mass $𝑀$ and radius $R$ is held up by a massless string, as shown in the figure.&lt;br /&gt;
-        The surface of the disk is frictionless. What is the tension in the string? (score : 20)&lt;br /&gt;
-        What is the normal force per unit length that the string applies to the disk? (score : 20)&lt;br /&gt;
-&lt;strong&gt;b.&lt;/strong&gt;  Let there now be friction between the disk and the string, with coefficient $\mu$.&lt;br /&gt;
-        What is the smallest possible tension in the string at its lowest point? (score : 30)
-    &lt;figure&gt;
-    &lt;img src=&quot;http:/ACM2025S/quiz/2/p7.jpg&quot; width=&quot;250&quot; /&gt;
-    &lt;figcaption style=&quot;text-align:center&quot;&gt;
-    &lt;/figcaption&gt;
-&lt;/figure&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Consider a bullet shot underwater with the initial velocity ${\mathbf v_0}$ 
-experiencing a resistive force ${\mathbf F} = -km{\mathbf v}$ as it moves.
-Show that the speed of the bullet at any moment is given by, $v = v_0 - kx$
-with $x$ representing the displacement since the start of the motion. (score : 30)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;(&lt;strong&gt;Extra Credit&lt;/strong&gt;.) Consider a particle of mass $m$ and charge $q$ entering entering a 
-space with magnetic field of strength $B$ in the Y direction of the Cartesian Coordinate 
-system as shown in the figure.&lt;br /&gt;
-Recall that the motion of a particle in magnetic field is described by the force
-\(F_B = q{\mathbf v} \times {\mathbf B} = m{\mathbf a}\)
-in which ${\mathbf v}$ represents the velocity of the particle at any given moment.
-    &lt;figure&gt;
-    &lt;img src=&quot;http:/ACM2025S/quiz/2/particleinb.jpg&quot; width=&quot;350&quot; /&gt;
-    &lt;figcaption style=&quot;text-align:center&quot;&gt;
-    &lt;/figcaption&gt;
-&lt;/figure&gt;
-    &lt;p&gt;Show that the location of this particle as a function of time $t$ can be written as,&lt;/p&gt;
-
-\[\begin{eqnarray}
-    x - x_0 &amp;amp;=&amp;amp; C \cos(D t) \\
-    y - y_0 &amp;amp;=&amp;amp; {\dot y_0} t \\
-    z - z_0 &amp;amp;=&amp;amp; C \sin(D t) \\
-    {\mathbf B} &amp;amp;=&amp;amp; B_0\hat j \\
-    C &amp;amp;=&amp;amp; \frac{\frac{dz_0}{dt} m}{qB_0} \\
-    D &amp;amp;=&amp;amp; \frac{qB_0}{m} \\
-\end{eqnarray}\]
-  &lt;/li&gt;
-&lt;/ol&gt;
-
-
-  
-  &lt;p&gt;&lt;a href=&quot;http:/ACM2025S/quiz/2&quot;&gt;Quiz 2&lt;/a&gt; was originally published by Amir Shahmoradi at &lt;a href=&quot;http:/ACM2025S&quot;&gt;Advanced Classical Mechanics - Spring 2025 - TTH 15:30-16:50 - Science Hall SH 129 / Microsoft Teams Virtual Room&lt;/a&gt; on February 18, 2025.&lt;/p&gt;</content>
-</entry>
-
-
-<entry>
-  <title type="html"><![CDATA[Quiz 1]]></title>
-  <link rel="alternate" type="text/html" href="http:/ACM2025S/quiz/1"/>
-  <id>http:/ACM2025S/quiz/1</id>
-  <published>2025-02-04T00:00:00-06:00</published>
-  <updated>2025-02-04T00:00:00-06:00</updated>
-  <author>
-    <name>Amir Shahmoradi</name>
-    <uri>http:/ACM2025S</uri>
-    <email>shahmoradi@utexas.edu</email>
-  </author>
-  
-  <content type="html">
-  
-    &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;Here is &lt;a href=&quot;http:/ACM2025S/quiz/acm-quiz-1-solutions.pdf&quot; target=&quot;_blank&quot;&gt;the solution to this quiz&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;The following figure illustrates the grade distribution for this activity.&lt;/p&gt;
-&lt;figure&gt;
-    &lt;img src=&quot;http:/ACM2025S/quiz/qz1.png&quot; width=&quot;700&quot; /&gt;
-    &lt;figcaption style=&quot;text-align:center&quot;&gt;
-        Maximum possible points is 100 (excluding extra credit).
-    &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;hr /&gt;
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;strong&gt;This quiz is open-lecture&lt;/strong&gt;, however, you are &lt;strong&gt;not&lt;/strong&gt; allowed to consult other resources or people.&lt;br /&gt;
-You have 60 minutes to respond to the questions and submit your answers.&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;
-    &lt;p&gt;Prove the following identity:&lt;br /&gt;
-&lt;br /&gt;
-\(\sin(\alpha \pm \beta) = \sin(\alpha) \cos(\beta) \pm \cos(\alpha) \sin(\beta)\)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Prove the following identities hold:&lt;br /&gt;
-a.  The double cross-product identity (also known as the bac-cab rule):&lt;br /&gt;
-    &lt;br /&gt;
-    \({\bf a} \times ({\bf b} \times {\bf c}) = {\bf b} ({\bf a} \cdot {\bf c}) - {\bf c} ({\bf a} \cdot {\bf b})\)&lt;br /&gt;
-    &lt;br /&gt;
-b.  The alternate double cross-product identity:&lt;br /&gt;
-    &lt;br /&gt;
-    \(({\bf a} \times {\bf b}) \times {\bf c} = {\bf b} ({\bf a} \cdot {\bf c}) - {\bf a} ({\bf b} \cdot {\bf c})\)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Show that the following holds,&lt;br /&gt;
-&lt;br /&gt;
-\(\large
-\nabla(\log(|{\bf r}|) = \frac{\bf r}{r^2} ~.\)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;How many scalar multiplications are generally involved in the multiplication of two square matrices of rank $n$?&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;A satellite of mass $m$ travels in a circular orbit above the earth’s surface. 
-What can we say about its speed (in terms of the known physical quantities)?&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;A beach ball is dropped from rest at height $h$.&lt;br /&gt;
-Assume that the drag force from the air takes the form $F_d = -m\alpha v$.&lt;br /&gt;
-The governing equations for the velocity of the ball is the following:&lt;br /&gt;
-&lt;br /&gt;
-\(v(t) = -\frac{g}{\alpha}\left[1 - \exp(-\alpha t)\right] ~.\)&lt;br /&gt;
-&lt;br /&gt;
-Prove that the speed of the ball according to the above equation is sensible both &lt;strong&gt;immediately&lt;/strong&gt; and &lt;strong&gt;long&lt;/strong&gt; after the ball is dropped.&lt;br /&gt;
-What is the mathematical interpretation of &lt;strong&gt;immediately&lt;/strong&gt; and &lt;strong&gt;long&lt;/strong&gt; here?&lt;br /&gt;
-&lt;strong&gt;Hint:&lt;/strong&gt; Recall the definition of the Taylor expansion:&lt;br /&gt;
-&lt;br /&gt;
-\(f(x\rightarrow a) = f(a)+{\frac {f&apos;(a)}{1!}}(x-a)+{\frac {f&apos;&apos;(a)}{2!}}(x-a)^{2}+\cdots =\sum _{n=0}^{\infty }{\frac {f^{(n)}(a)}{n!}}(x-a)^{n} ~.\)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Extra Credit.&lt;/strong&gt; A ball is thrown at an angle $\theta$ up to the top of a cliff of height $L$, 
-from a point a distance $L$ from the base, as shown in the figure. 
-Assuming that one of the following quantities is the initial speed 
-required to make the ball hit right at the edge of the cliff, which one is it?&lt;br /&gt;
-Justify your answer.&lt;/p&gt;
-    &lt;figure&gt;
-    &lt;img src=&quot;http:/ACM2025S/quiz/1/landing-at-the-corner-figure.png&quot; width=&quot;250&quot; /&gt;
-    &lt;figcaption style=&quot;text-align:center&quot;&gt;
-    &lt;/figcaption&gt;
-&lt;/figure&gt;
-    &lt;figure&gt;
-    &lt;img src=&quot;http:/ACM2025S/quiz/1/landing-at-the-corner-equations.png&quot; width=&quot;450&quot; /&gt;
-    &lt;figcaption style=&quot;text-align:center&quot;&gt;
-    &lt;/figcaption&gt;
-&lt;/figure&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
-
-
-  
-  &lt;p&gt;&lt;a href=&quot;http:/ACM2025S/quiz/1&quot;&gt;Quiz 1&lt;/a&gt; was originally published by Amir Shahmoradi at &lt;a href=&quot;http:/ACM2025S&quot;&gt;Advanced Classical Mechanics - Spring 2025 - TTH 15:30-16:50 - Science Hall SH 129 / Microsoft Teams Virtual Room&lt;/a&gt; on February 04, 2025.&lt;/p&gt;</content>
-</entry>
-
-
-<entry>
-  <title type="html"><![CDATA[Homework 2: Newtonian Statics and Dynamics]]></title>
-  <link rel="alternate" type="text/html" href="http:/ACM2025S/homework/2"/>
-  <id>http:/ACM2025S/homework/2</id>
-  <published>2025-01-30T00:00:00-06:00</published>
-  <updated>2025-01-30T00:00:00-06:00</updated>
-  <author>
-    <name>Amir Shahmoradi</name>
-    <uri>http:/ACM2025S</uri>
-    <email>shahmoradi@utexas.edu</email>
-  </author>
-  
-  <content type="html">
-  
-    
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;The following figure illustrates the grade distribution for this activity.&lt;/p&gt;
-&lt;figure&gt;
-    &lt;img src=&quot;http:/ACM2025S/homework/hw2.png&quot; width=&quot;700&quot; /&gt;
-    &lt;figcaption style=&quot;text-align:center&quot;&gt;
-        Maximum possible points is 100 (excluding extra credit).
-    &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;♣ &lt;strong&gt;Due Date: Tuesday February 18, 2025 at 3:30 PM&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;See the following lecture notes for the homework problems. 
-When returning your answers, mark the two sets with the lecture note number to make them distinguishable:
-    &lt;ul&gt;
-      &lt;li&gt;&lt;a href=&quot;../lecture/acm4.pdf&quot; target=&quot;_blank&quot;&gt;acm4.pdf&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;../lecture/acm5.pdf&quot; target=&quot;_blank&quot;&gt;acm5.pdf&lt;/a&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
-
-  
-  &lt;p&gt;&lt;a href=&quot;http:/ACM2025S/homework/2&quot;&gt;Homework 2: Newtonian Statics and Dynamics&lt;/a&gt; was originally published by Amir Shahmoradi at &lt;a href=&quot;http:/ACM2025S&quot;&gt;Advanced Classical Mechanics - Spring 2025 - TTH 15:30-16:50 - Science Hall SH 129 / Microsoft Teams Virtual Room&lt;/a&gt; on January 30, 2025.&lt;/p&gt;</content>
 </entry>
 
 
@@ -919,11 +189,11 @@ When returning your answers, mark the two sets with the lecture note number to m
 
 
 <entry>
-  <title type="html"><![CDATA[Homework 1: Mathematical Foundations & Problem-Solving Techniques]]></title>
-  <link rel="alternate" type="text/html" href="http:/ACM2025S/homework/1"/>
-  <id>http:/ACM2025S/homework/1</id>
-  <published>2025-01-17T00:00:00-06:00</published>
-  <updated>2025-01-17T00:00:00-06:00</updated>
+  <title type="html"><![CDATA[Announcement 1: Student-professor connection day]]></title>
+  <link rel="alternate" type="text/html" href="http:/ACM2025S/announcement/1-student-professor-connection-day"/>
+  <id>http:/ACM2025S/announcement/1-student-professor-connection-day</id>
+  <published>2025-01-16T00:00:00-06:00</published>
+  <updated>2025-01-16T00:00:00-06:00</updated>
   <author>
     <name>Amir Shahmoradi</name>
     <uri>http:/ACM2025S</uri>
@@ -932,31 +202,375 @@ When returning your answers, mark the two sets with the lecture note number to m
   
   <content type="html">
   
-    
+    &lt;p&gt;On the first day of our class, we will try to get to know each other. We will bring brownies to class and describe my research work and educational background for you and learn about all of you and your background and future goals. We will also review our expectations from this course. We will present the results of the survey that We sent out to you a week ago to assess your Data Science topical interests and knowledge, and your programming skills. Based on the survey results and your feedback in class, we will decide on the choice of language and the design of this course.&lt;/p&gt;
+
+&lt;div class=&quot;post_toc&quot;&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;about-amir&quot;&gt;About Amir&lt;/h2&gt;
+
+&lt;p&gt;I am a physicist and researcher, and currently a faculty member at &lt;a target=&quot;_blank&quot; href=&quot;https://www.uta.edu/physics/&quot;&gt;the Department of Physics&lt;/a&gt; as well as the Data Science Program in &lt;a target=&quot;_blank&quot; href=&quot;https://www.uta.edu/science/index.php&quot;&gt;The College of Science&lt;/a&gt; at &lt;a target=&quot;_blank&quot; href=&quot;https://www.uta.edu/&quot;&gt;The University of Texas at Arlington&lt;/a&gt;. You can find more information about me, our group, and our research at &lt;a target=&quot;_blank&quot; href=&quot;https://www.cdslab.org&quot;&gt;cdslab.org&lt;/a&gt;. Here is a summary of my life in a few pictures:&lt;/p&gt;
+
+&lt;p&gt;I was introduced to the world of information and computer programming around 1991 by my father and elder brother. By the end of elementary school, I was so impressed with and knew enough about computer software to write a few simple &lt;a target=&quot;_blank&quot; href=&quot; https://en.wikipedia.org/wiki/PC_game&quot;&gt;computer games&lt;/a&gt; in &lt;a target=&quot;_blank&quot; href=&quot;https://en.wikipedia.org/wiki/QBasic&quot;&gt;QBasic programming language&lt;/a&gt; on our first family personal computer, &lt;a target=&quot;_blank&quot; href=&quot;https://en.wikipedia.org/wiki/IBM_386SLC&quot;&gt;IBM 386&lt;/a&gt;. Here is an example of how computer games looked like 30 years ago.&lt;/p&gt;
+
+&lt;div class=&quot;center&quot;&gt;
+&lt;div class=&quot;video-wrapper&quot;&gt;
+	&lt;div class=&quot;video-container&quot;&gt;
+        &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/4TSF5sIgorA&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+		&lt;!-- &lt;iframe width=&quot;853&quot; height=&quot;480&quot; src=&quot;https://www.youtube.com/embed/0XL8RNxzrdw?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt; --&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;The following figure illustrates the grade distribution for this activity.&lt;/p&gt;
+&lt;!-- include.path must be given relative to site.url, which is the project&apos;s root directory --&gt;
+
+&lt;div style=&quot;display:block;text-align:center;margin-right:auto;margin-left:auto&quot;&gt;
+    &lt;figure&gt;
+        
+        &lt;a href=&quot;https://cdslaborg.github.io/connection/memoriesOfGreen.jpg&quot; target=&quot;_blank&quot;&gt;
+        
+            &lt;img src=&quot;https://cdslaborg.github.io/connection/memoriesOfGreen.jpg&quot; width=&quot;100%&quot; /&gt;
+        
+        &lt;/a&gt;
+        
+        
+            &lt;figcaption&gt;A portrait of me at high school by my friends showing me having proven Einstein&apos;s equation finally wrong: $E = mc^4$!&lt;/figcaption&gt;
+        
+    &lt;/figure&gt;
+&lt;/div&gt;
+
+&lt;!-- include.path must be given relative to site.url, which is the project&apos;s root directory --&gt;
+
+&lt;div style=&quot;display:block;text-align:center;margin-right:auto;margin-left:auto&quot;&gt;
+    &lt;figure&gt;
+        
+        &lt;a href=&quot;https://cdslaborg.github.io/connection/EinsteinSandals.jpg&quot; target=&quot;_blank&quot;&gt;
+        
+            &lt;img src=&quot;https://cdslaborg.github.io/connection/EinsteinSandals.jpg&quot; width=&quot;100%&quot; /&gt;
+        
+        &lt;/a&gt;
+        
+        
+            &lt;figcaption&gt;What I imagined I&apos;d do as a physicist: Sitting on the beach and solving the grandest mysteries of the world, stepping in Einstein&apos;s unusual footprints.&lt;/figcaption&gt;
+        
+    &lt;/figure&gt;
+&lt;/div&gt;
+
+&lt;!-- include.path must be given relative to site.url, which is the project&apos;s root directory --&gt;
+
+&lt;div style=&quot;display:block;text-align:center;margin-right:auto;margin-left:auto&quot;&gt;
+    &lt;figure&gt;
+        
+        &lt;a href=&quot;https://cdslaborg.github.io/connection/PhDdefense.gif&quot; target=&quot;_blank&quot;&gt;
+        
+            &lt;img src=&quot;https://cdslaborg.github.io/connection/PhDdefense.gif&quot; width=&quot;100%&quot; /&gt;
+        
+        &lt;/a&gt;
+        
+        
+            &lt;figcaption&gt;What actually happened: A scene from my Physics Ph.D. defense.&lt;/figcaption&gt;
+        
+    &lt;/figure&gt;
+&lt;/div&gt;
+
+&lt;p&gt;I never imagined a day I would use computer programming for scientific purposes. Nevertheless, there has been almost no single day that I have not used scientific programming for my work and research, ever since I entered graduate school.&lt;/p&gt;
+
+&lt;h2 id=&quot;my-research-topics&quot;&gt;My research topics&lt;/h2&gt;
+
+&lt;p&gt;The following are a few examples of what I do nowadays as part of my scientific research at UT Austin.&lt;/p&gt;
+
+&lt;h3 id=&quot;theoretical-astrophysics&quot;&gt;Theoretical Astrophysics&lt;/h3&gt;
+
+&lt;p&gt;While my current focus of research is mathematical modelling of tumor growth and Monte Carlo samplers, I am and have been working in multiple branches of science and engineering for several years, from the subatomic world of &lt;a target=&quot;_blank&quot; href=&quot;https://en.wikipedia.org/wiki/Elementary_particle&quot;&gt;elementary particles&lt;/a&gt;, to the microscopic world of &lt;a target=&quot;_blank&quot; href=&quot;https://en.wikipedia.org/wiki/Macromolecule&quot;&gt;biological macromolecules&lt;/a&gt;, to &lt;a target=&quot;_blank&quot; href=&quot;https://en.wikipedia.org/wiki/Gamma-ray_burst&quot;&gt;astrophysical phenomena&lt;/a&gt; occurring on the grandest scales of the &lt;a target=&quot;_blank&quot; href=&quot;https://en.wikipedia.org/wiki/Observable_universe&quot;&gt;observable Universe&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;For several years of my research, I have been working on understanding Gamma-Ray Bursts (GRB) and their physics. Below is a movie of the moment a Short-duration GRB is generated from the merger of a binary Neutron star system.&lt;/p&gt;
+
+&lt;div class=&quot;center&quot;&gt;
+&lt;div class=&quot;video-wrapper&quot;&gt;
+	&lt;div class=&quot;video-container&quot;&gt;
+		&lt;iframe width=&quot;853&quot; height=&quot;480&quot; src=&quot;https://www.youtube.com/embed/P2ESs1rPO_A?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
 &lt;figure&gt;
-    &lt;img src=&quot;http:/ACM2025S/homework/hw1.png&quot; width=&quot;700&quot; /&gt;
-    &lt;figcaption style=&quot;text-align:center&quot;&gt;
-        Maximum possible points is 100 (excluding extra credit).
-    &lt;/figcaption&gt;
+	&lt;img src=&quot;https://cdslaborg.github.io/connection/astro_1.png&quot; width=&quot;100%&quot; /&gt;
+&lt;/figure&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;theoretical-biology-bioinformatics&quot;&gt;Theoretical Biology, Bioinformatics&lt;/h3&gt;
+
+&lt;p&gt;I have also worked for a few years in the field of bioinformatics and evolutionary biology. The overarching goal in the field of protein bioinformatics and biophysics is to understand how proteins fold into their unique structure, and what determines the stability of the protein &lt;abbr title=&quot;3-Dimensional&quot;&gt;3D&lt;/abbr&gt; structure.&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;figure&gt;
+	&lt;img src=&quot;https://cdslaborg.github.io/connection/bio_1.png&quot; width=&quot;100%&quot; /&gt;
+&lt;/figure&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;figure&gt;
+	&lt;img src=&quot;https://cdslaborg.github.io/connection/bio_2.png&quot; width=&quot;100%&quot; /&gt;
+&lt;/figure&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;One of the workhorses of this field, is therefore &lt;a href=&quot;https://en.wikipedia.org/wiki/Molecular_dynamics&quot; target=&quot;_blank&quot;&gt;molecular dynamic simulation&lt;/a&gt; to probe the dynamics of proteins and their interactions with other molecules. The following is a 1.5ns molecular dynamics simulation of Human Influenza H1 Hemagglutinin protein (&lt;a href=&quot;https://www.rcsb.org/pdb/explore.do?structureId=1rd8&quot; target=&quot;_blank&quot;&gt;1RD8&lt;/a&gt;, chains AB).&lt;/p&gt;
+
+&lt;div class=&quot;center&quot;&gt;
+&lt;div class=&quot;video-wrapper&quot;&gt;
+	&lt;div class=&quot;video-container&quot;&gt;
+		&lt;iframe width=&quot;853&quot; height=&quot;480&quot; src=&quot;https://www.youtube.com/embed/0XL8RNxzrdw?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;petroleum-engineering&quot;&gt;Petroleum Engineering&lt;/h3&gt;
+
+&lt;figure&gt;
+	&lt;img src=&quot;https://cdslaborg.github.io/connection/petro_1.png&quot; width=&quot;100%&quot; /&gt;
+&lt;/figure&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;computational-oncology&quot;&gt;Computational Oncology&lt;/h3&gt;
+
+&lt;p&gt;What you see in the figures below, is a representation of the growth of Glioblastoma tumor cells in a Rat’s brain over time.&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;figure&gt;
+	&lt;img src=&quot;https://cdslaborg.github.io/connection/onco_1.png&quot; width=&quot;100%&quot; /&gt;
+&lt;/figure&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;figure&gt;
+	&lt;img src=&quot;https://cdslaborg.github.io/connection/onco_2.png&quot; width=&quot;100%&quot; /&gt;
+&lt;/figure&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;figure&gt;
+	&lt;img src=&quot;https://cdslaborg.github.io/connection/onco_3.png&quot; width=&quot;100%&quot; /&gt;
+&lt;/figure&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;the-temporal-evolution-of-the-growth-of-glioma-tumor-in-rat&quot;&gt;The temporal evolution of the growth of Glioma tumor in rat&lt;/h4&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;figure&gt;
+	&lt;img src=&quot;https://cdslaborg.github.io/connection/tvccZSliceSubplotWithXYlabWithTB_rad_00gy_1_t10.0.png&quot; width=&quot;100%&quot; /&gt;
+&lt;/figure&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;figure&gt;
+	&lt;img src=&quot;https://cdslaborg.github.io/connection/GBGlastLong.gif&quot; width=&quot;100%&quot; /&gt;
+&lt;/figure&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;!--
+
+&lt;figure&gt;
+	&lt;img src=&quot;https://cdslaborg.github.io/connection/tvccZSliceSubplotWithXYlabWithTB_rad_00gy_2_t12.0.png&quot; width=&quot;100%&quot;&gt;
+&lt;/figure&gt;&lt;br&gt;
+
+---  
+&lt;br&gt;
+
+&lt;figure&gt;
+	&lt;img src=&quot;https://cdslaborg.github.io/connection/tvccZSliceSubplotWithXYlabWithTB_rad_00gy_3_t14.0.png&quot; width=&quot;100%&quot;&gt;
+&lt;/figure&gt;&lt;br&gt;
+
+---  
+&lt;br&gt;
+
+&lt;figure&gt;
+	&lt;img src=&quot;https://cdslaborg.github.io/connection/tvccZSliceSubplotWithXYlabWithTB_rad_00gy_5_t16.0.png&quot; width=&quot;100%&quot;&gt;
+&lt;/figure&gt;&lt;br&gt;
+
+---  
+&lt;br&gt;
+
+&lt;figure&gt;
+	&lt;img src=&quot;https://cdslaborg.github.io/connection/tvccZSliceSubplotWithXYlabWithTB_rad_00gy_6_t18.0.png&quot; width=&quot;100%&quot;&gt;
+&lt;/figure&gt;&lt;br&gt;
+
+---  
+&lt;br&gt;
+
+&lt;figure&gt;
+	&lt;img src=&quot;https://cdslaborg.github.io/connection/tvccZSliceSubplotWithXYlabWithTB_rad_00gy_7_t20.0.png&quot; width=&quot;100%&quot;&gt;
+&lt;/figure&gt;&lt;br&gt;
+
+--&gt;
+
+&lt;h3 id=&quot;monte-carlo-simulation-and-integration-methods&quot;&gt;Monte Carlo Simulation and Integration Methods&lt;/h3&gt;
+
+&lt;p&gt;One of the fields on which my research is currently focused, is developing Monte Carlo optimizer/sampler and integrator algorithms for Bayesian inverse problems.&lt;/p&gt;
+
+&lt;h4 id=&quot;development-of-monte-carlo-sampling-algorithms&quot;&gt;Development of Monte Carlo sampling algorithms&lt;/h4&gt;
+
+&lt;p&gt;Below you see example animations of two &lt;a href=&quot;https://en.wikipedia.org/wiki/Markov_chain_Monte_Carlo&quot; target=&quot;_blank&quot;&gt;Markov Chain Monte Carlo&lt;/a&gt; (MCMC) samplers, both of which sample a double Gaussian-peak function, but with different MCMC sampling parameters.&lt;/p&gt;
+
+&lt;figure&gt;
+	&lt;img src=&quot;https://cdslaborg.github.io/connection/PDF_RS_H_Forever20ms.gif&quot; width=&quot;100%&quot; /&gt;
+    &lt;figcaption style=&quot;text-align:center&quot;&gt;Example of highly-efficiency, but bad-mixing MCMC sampler.&lt;/figcaption&gt;
 &lt;/figure&gt;
 
-&lt;p&gt;♣ &lt;strong&gt;Due Date: Tuesday February 4, 2025 at 3:30 PM&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;ol&gt;
-  &lt;li&gt;See the following lecture notes for the homework problems:
-    &lt;ul&gt;
-      &lt;li&gt;&lt;a href=&quot;../lecture/acm1.pdf&quot; target=&quot;_blank&quot;&gt;acm1.pdf&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;../lecture/acm2.pdf&quot; target=&quot;_blank&quot;&gt;acm2.pdf&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;../lecture/acm3.pdf&quot; target=&quot;_blank&quot;&gt;acm3.pdf&lt;/a&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
+&lt;figure&gt;
+	&lt;img src=&quot;https://cdslaborg.github.io/connection/PDF_RS_L_Forever20ms.gif&quot; width=&quot;100%&quot; /&gt;
+    &lt;figcaption style=&quot;text-align:center&quot;&gt;Example of low-efficiency, but good-mixing MCMC sampler.&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;development-of-monte-carlo-integration-algorithms&quot;&gt;Development of Monte Carlo integration algorithms&lt;/h4&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;figure&gt;
+	&lt;img src=&quot;https://cdslaborg.github.io/connection/DRI.png&quot; width=&quot;100%&quot; /&gt;
+&lt;/figure&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;figure&gt;
+	&lt;img src=&quot;https://cdslaborg.github.io/connection/DLI.png&quot; width=&quot;100%&quot; /&gt;
+&lt;/figure&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;figure&gt;
+	&lt;img src=&quot;https://cdslaborg.github.io/connection/GR3D.png&quot; width=&quot;100%&quot; /&gt;
+&lt;/figure&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;figure&gt;
+	&lt;img src=&quot;https://cdslaborg.github.io/connection/GR2D.png&quot; width=&quot;100%&quot; /&gt;
+&lt;/figure&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;figure&gt;
+	&lt;img src=&quot;https://cdslaborg.github.io/connection/GR2D.gif&quot; width=&quot;100%&quot; /&gt;
+&lt;/figure&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;figure&gt;
+	&lt;img src=&quot;https://cdslaborg.github.io/connection/EB3D.png&quot; width=&quot;100%&quot; /&gt;
+&lt;/figure&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;figure&gt;
+	&lt;img src=&quot;https://cdslaborg.github.io/connection/EB2D.gif&quot; width=&quot;100%&quot; /&gt;
+&lt;/figure&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;biomedical-data-science&quot;&gt;Biomedical Data Science&lt;/h4&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;!-- include.path must be given relative to site.url, which is the project&apos;s root directory --&gt;
+
+&lt;div style=&quot;display:block;text-align:center;margin-right:auto;margin-left:auto&quot;&gt;
+    &lt;figure&gt;
+        
+        &lt;a href=&quot;https://cdslaborg.github.io/connection/PT509_ST9501_SE00144_ADC0016.png&quot; target=&quot;_blank&quot;&gt;
+        
+            &lt;img src=&quot;https://cdslaborg.github.io/connection/PT509_ST9501_SE00144_ADC0016.png&quot; width=&quot;100%&quot; /&gt;
+        
+        &lt;/a&gt;
+        
+        
+    &lt;/figure&gt;
+&lt;/div&gt;
+
+&lt;!-- include.path must be given relative to site.url, which is the project&apos;s root directory --&gt;
+
+&lt;div style=&quot;display:block;text-align:center;margin-right:auto;margin-left:auto&quot;&gt;
+    &lt;figure&gt;
+        
+        &lt;a href=&quot;https://cdslaborg.github.io/connection/PT509_ST9501_SE00144_ADC0016_overlay.png&quot; target=&quot;_blank&quot;&gt;
+        
+            &lt;img src=&quot;https://cdslaborg.github.io/connection/PT509_ST9501_SE00144_ADC0016_overlay.png&quot; width=&quot;100%&quot; /&gt;
+        
+        &lt;/a&gt;
+        
+        
+    &lt;/figure&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+
 
   
-  &lt;p&gt;&lt;a href=&quot;http:/ACM2025S/homework/1&quot;&gt;Homework 1: Mathematical Foundations & Problem-Solving Techniques&lt;/a&gt; was originally published by Amir Shahmoradi at &lt;a href=&quot;http:/ACM2025S&quot;&gt;Advanced Classical Mechanics - Spring 2025 - TTH 15:30-16:50 - Science Hall SH 129 / Microsoft Teams Virtual Room&lt;/a&gt; on January 17, 2025.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http:/ACM2025S/announcement/1-student-professor-connection-day&quot;&gt;Announcement 1: Student-professor connection day&lt;/a&gt; was originally published by Amir Shahmoradi at &lt;a href=&quot;http:/ACM2025S&quot;&gt;Advanced Classical Mechanics - Spring 2025 - TTH 15:30-16:50 - Science Hall SH 129 / Microsoft Teams Virtual Room&lt;/a&gt; on January 16, 2025.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Announcement 0: Survey]]></title>
+  <link rel="alternate" type="text/html" href="http:/ACM2025S/announcement/0-survey"/>
+  <id>http:/ACM2025S/announcement/0-survey</id>
+  <published>2025-01-14T00:00:00-06:00</published>
+  <updated>2025-01-14T00:00:00-06:00</updated>
+  <author>
+    <name>Amir Shahmoradi</name>
+    <uri>http:/ACM2025S</uri>
+    <email>shahmoradi@utexas.edu</email>
+  </author>
+  
+  <content type="html">
+  
+    &lt;p&gt;The goal of &lt;a href=&quot;https://utaedu.questionpro.com/t/AS6OrZ5Dtc&quot;&gt;this survey&lt;/a&gt; is to know your background better.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+  
+  &lt;p&gt;&lt;a href=&quot;http:/ACM2025S/announcement/0-survey&quot;&gt;Announcement 0: Survey&lt;/a&gt; was originally published by Amir Shahmoradi at &lt;a href=&quot;http:/ACM2025S&quot;&gt;Advanced Classical Mechanics - Spring 2025 - TTH 15:30-16:50 - Science Hall SH 129 / Microsoft Teams Virtual Room&lt;/a&gt; on January 14, 2025.&lt;/p&gt;</content>
 </entry>
 
 </feed>
