@@ -2,41 +2,6 @@
 callback([
 
   {
-    "text": "Quartet 7: Coupled Oscillations",
-    "href": "/ACM2025S/lecture/7"
-  } ,
-
-  {
-    "text": "Quartet 6: Oscillation",
-    "href": "/ACM2025S/lecture/6"
-  } ,
-
-  {
-    "text": "Quartet 5: Calculus of Variations and Lagrangian Mechanics",
-    "href": "/ACM2025S/lecture/5"
-  } ,
-
-  {
-    "text": "Quartet 4: Conservation Laws and Momentum",
-    "href": "/ACM2025S/lecture/4"
-  } ,
-
-  {
-    "text": "Quartet 3: Conservation Laws and Gravity",
-    "href": "/ACM2025S/lecture/3"
-  } ,
-
-  {
-    "text": "Quartet 2: Newtonian Statics and Dynamics",
-    "href": "/ACM2025S/lecture/2"
-  } ,
-
-  {
-    "text": "Quartet 1: Mathematical Foundations and Problem Solving Strategies",
-    "href": "/ACM2025S/lecture/1"
-  } ,
-
-  {
     "text": "Announcement 1: Student-professor connection day",
     "href": "/ACM2025S/announcement/1-student-professor-connection-day"
   } ,

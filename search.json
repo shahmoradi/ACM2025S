@@ -1,62 +1,6 @@
 [
 	
 		{
-		  "title"      : "Quartet 7: Coupled Oscillations",
-		  "category"   : "",
-		  "url"        : "/ACM2025S/lecture/7",
-		  "date"       : "2025-04-17 00:00:00 -0500",
-		  "shortdate"  : "April 17, 2025"
-		} ,
-	
-		{
-		  "title"      : "Quartet 6: Oscillation",
-		  "category"   : "",
-		  "url"        : "/ACM2025S/lecture/6",
-		  "date"       : "2025-04-08 00:00:00 -0500",
-		  "shortdate"  : "April 08, 2025"
-		} ,
-	
-		{
-		  "title"      : "Quartet 5: Calculus of Variations and Lagrangian Mechanics",
-		  "category"   : "",
-		  "url"        : "/ACM2025S/lecture/5",
-		  "date"       : "2025-03-18 00:00:00 -0500",
-		  "shortdate"  : "March 18, 2025"
-		} ,
-	
-		{
-		  "title"      : "Quartet 4: Conservation Laws and Momentum",
-		  "category"   : "",
-		  "url"        : "/ACM2025S/lecture/4",
-		  "date"       : "2025-03-05 00:00:00 -0600",
-		  "shortdate"  : "March 05, 2025"
-		} ,
-	
-		{
-		  "title"      : "Quartet 3: Conservation Laws and Gravity",
-		  "category"   : "",
-		  "url"        : "/ACM2025S/lecture/3",
-		  "date"       : "2025-02-20 00:00:00 -0600",
-		  "shortdate"  : "February 20, 2025"
-		} ,
-	
-		{
-		  "title"      : "Quartet 2: Newtonian Statics and Dynamics",
-		  "category"   : "",
-		  "url"        : "/ACM2025S/lecture/2",
-		  "date"       : "2025-01-26 00:00:00 -0600",
-		  "shortdate"  : "January 26, 2025"
-		} ,
-	
-		{
-		  "title"      : "Quartet 1: Mathematical Foundations and Problem Solving Strategies",
-		  "category"   : "",
-		  "url"        : "/ACM2025S/lecture/1",
-		  "date"       : "2025-01-17 00:00:00 -0600",
-		  "shortdate"  : "January 17, 2025"
-		} ,
-	
-		{
 		  "title"      : "Announcement 1: Student-professor connection day",
 		  "category"   : "",
 		  "url"        : "/ACM2025S/announcement/1-student-professor-connection-day",
