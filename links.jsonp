@@ -2,36 +2,6 @@
 callback([
 
   {
-    "text": "Quiz 6",
-    "href": "/ACM2025S/quiz/6"
-  } ,
-
-  {
-    "text": "Quiz 5",
-    "href": "/ACM2025S/quiz/5"
-  } ,
-
-  {
-    "text": "Quiz 4",
-    "href": "/ACM2025S/quiz/4"
-  } ,
-
-  {
-    "text": "Quiz 3",
-    "href": "/ACM2025S/quiz/3"
-  } ,
-
-  {
-    "text": "Quiz 2",
-    "href": "/ACM2025S/quiz/2"
-  } ,
-
-  {
-    "text": "Quiz 1",
-    "href": "/ACM2025S/quiz/1"
-  } ,
-
-  {
     "text": "Announcement 1: Student-professor connection day",
     "href": "/ACM2025S/announcement/1-student-professor-connection-day"
   } ,
